@@ -7,8 +7,8 @@
         "version": "0.1",
         "minimum-overwolf-version": "0.77.10",
         "author": "Angel Santos",
-        "icon": "icon.png",
-        "icon_gray": "icon_gray.png",
+        "icon": "cheetah/images/icon.png",
+        "icon_gray": "cheetah/images/icon_gray.png",
         "description": "Application to manage cheatcodes in Dota 2"
     },
     "permissions": ["Clipboard","Hotkeys","GameInfo","GameControl"],
