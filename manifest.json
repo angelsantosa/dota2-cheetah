@@ -1,0 +1,51 @@
+{
+    "manifest_version": 1,
+    "type": "WebApp",
+    "meta": {
+        "name": "Dota 2 Cheetah",
+        "dock_button_title": "Cheetah",
+        "version": "0.1",
+        "minimum-overwolf-version": "0.77.10",
+        "author": "Angel Santos",
+        "icon": "icon.png",
+        "icon_gray": "icon_gray.png",
+        "description": "Application to manage cheatcodes in Dota 2"
+    },
+    "permissions": ["Clipboard","Hotkeys","GameInfo","GameControl"],
+    "data": {
+      "windows": {
+                  "index": {
+                      "file": "cheetah/index.html",
+                      "show_in_taskbar": false,
+                      "transparent": true,
+                      "resizable": true,
+                      "clickthrough": false,
+                      "forcecapture": true,
+                      "disable_rightclick": false,
+                      "show_only_on_stream": false,
+                      "ignore_keyboard_events": false,
+                      "in_game_only": true,
+                      "disable_restore_animation": true,
+                      "grab_keyboard_focus": false,
+                      "size": {
+                          "width": 345,
+                          "height": 650
+                      },
+                      "start_position": {
+                          "top": 20,
+                          "right": 20
+                      },
+                      "topmost": false
+                  }
+              },
+      "start_window": "index",
+      "hotkeys": {
+        "togglecheetah":{
+            "title": "Show/Hide Dota 2 Cheetah",
+            "action-type": "toggle",
+            "default": "Ctrl+Shift+C",
+            "passthrough": true
+          }
+        }
+    }
+}
