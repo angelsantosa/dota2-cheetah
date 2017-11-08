@@ -11,24 +11,15 @@
   <body>
 
       <div class="content" onmousedown="dragMove();">
-        <header>
-          <h1 class="headtitle">Cheetah!</h1>
-          <div class="infobuttons">
-            <button class="settingsbutton" onclick=""><i class="fa fa-cog" aria-hidden="true"></i></button>
-            <button class="infobutton" onclick=""><i class="fa fa-info" aria-hidden="true"></i></button>
-            <button class="closebutton" onclick="closeWindow();"><i class="fa fa-window-close" aria-hidden="true"></i></button>
-          </div>
-        </header>
-
-        <main>
-          <div class="row">
-              <button type="button" name="button"><i class="fa fa-globe" aria-hidden="true"></i></button>
-              <button type="button" name="button"><i class="fa fa-user" aria-hidden="true"></i></button>
-              <button type="button" name="button"><i class="fa fa-users" aria-hidden="true"></i></button>
-          </div>
-        </main>
-
+        <header></header>
+        <main></main>
+        <footer></footer>
       </div>
+
+      <div class="resize horizontal top" onmousedown="dragResize('Top');"></div>
+  		<div class="resize vertical left" onmousedown="dragResize('Left');"></div>
+  		<div class="resize vertical right" onmousedown="dragResize('Right');"></div>
+  		<div class="resize horizontal bottom" onmousedown="dragResize('Bottom');"></div>
 
       <div class="resize corner top-left" onmousedown="dragResize('TopLeft');"></div>
       <div class="resize corner top-right" onmousedown="dragResize('TopRight');"></div>
@@ -38,5 +29,8 @@
   <script src="https://use.fontawesome.com/52d59fc200.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/2.3.0/mustache.min.js"></script>
   <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
-  <script src="core/main.js"></script>
+  <script src="js/jquery.mustache.js"></script>
+  <script src="js/windowevents.js"></script>
+  <script src="js/core.js"></script>
+  <script src="js/main.js"></script>
 </html>

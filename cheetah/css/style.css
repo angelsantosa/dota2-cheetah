@@ -31,22 +31,37 @@ header{
   flex-direction: row;
   justify-content: space-between;
 }
+footer{
+  height: 25px;
+  border-top: solid 1px #3f3f3f;
+  bottom: 0;
+  position: absolute;
+  width: 98%;
+  display: flex;
+  flex-direction: row;
+}
+footer label.ok{
+  color: #1abc9c;
+}
+
+footer label.error{
+  color: #e74c3c;
+}
 .infobuttons button{
     line-height: 0;
     font-size: 20px;
     border: none;
-    padding: 0;
+    padding: 0 5px;
     margin: auto;
     height: 20px;
 }
-.infobuttons .settingsbutton{
-      padding: 0 5px;
+.infobuttons .precat{
+  padding-left: 20px;
+  padding-right: 0;
+  font-size: 14px;
 }
-.infobuttons .infobutton{
-      padding: 0 5px;
-}
-.infobuttons .closebutton{
-      padding-left: 20px;
+.infobuttons .last{
+  padding: 0;
 }
 h1.headtitle{
   font-size: 15px;
@@ -71,6 +86,40 @@ h1.headtitle{
     position: absolute;
     z-index: 1000;
     opacity: .5;
+}
+.resize.horizontal {
+  left: 10px;
+  right: 10px;
+  height: 10px;
+}
+
+.resize.vertical {
+  top: 10px;
+  bottom: 10px;
+  width: 10px;
+}
+.resize.top {
+  top: 0;
+  transform: translateY(5px);
+  cursor: n-resize;
+}
+
+.resize.bottom {
+  bottom: 0;
+  transform: translateY(-5px);
+  cursor: s-resize;
+}
+
+.resize.left {
+  left: 0;
+  transform: translateX(5px);
+  cursor: e-resize;
+}
+
+.resize.right {
+  right: 0;
+  transform: translateX(-5px);
+  cursor: w-resize;
 }
 
 .resize.top-left {

@@ -5,7 +5,6 @@ function dragMove(){
         }
     });
 };
-
 function closeWindow(){
     overwolf.windows.getCurrentWindow(function(result){
         if (result.status=="success"){
@@ -14,9 +13,16 @@ function closeWindow(){
     });
 };
 function dragResize(edge){
-				overwolf.windows.getCurrentWindow(function(result){
-					if (result.status=="success"){
-						overwolf.windows.dragResize(result.window.id, edge);
-					}
-				});
-			};
+		overwolf.windows.getCurrentWindow(function(result){
+			if (result.status=="success"){
+				overwolf.windows.dragResize(result.window.id, edge);
+			}
+		});
+	};
+function minimizeWindow(){
+  overwolf.windows.getCurrentWindow(function(result){
+    if (result.status=="success"){
+      overwolf.windows.minimize(result.window.id);
+    }
+  });
+};
