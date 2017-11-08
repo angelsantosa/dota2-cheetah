@@ -17,7 +17,6 @@ class CheetahTplManager{
     this.render();
   }
   render(){
-    console.log(this._tpl_tagname);
     var el = this._tpl_el;
     var tag = this._tpl_tagname;
     var data = this._tpl_data;
@@ -25,4 +24,52 @@ class CheetahTplManager{
       el.mustache(tag, data, { method: 'html' });
     });
   }
+}
+
+class CheetahJSONManager{
+
+  constructor(json_file){
+    this._json_file = json_file;
+    this._object = {};
+
+  }
+
+  setObject(){
+    $.getJSON(this._json_file, function (d) {
+      this._object = d;
+      console.log(this._object)
+    });
+  }
+
+  getObject(){
+    return this._object;
+  }
+  
+  getNestedObject(object_name){
+    var nst_object = {};
+    var first,who,key;
+    $.getJSON(this._json_file, function (d) {
+      $.each(d[object_name], function (k,v) {
+        if(key!=k){
+          who=undefined;
+          key=undefined;
+          first= true;
+        }
+        $.each(v,function (n,m) {
+          if(first){
+            key = k;
+            nst_object[m.toString().toLowerCase()]={};
+            nst_object[m.toString().toLowerCase()][n]=m;
+            first = false;
+            who = m.toString().toLowerCase();
+          }else{
+            nst_object[who][n]=m;
+          }
+        });
+
+      });
+    });
+    return nst_object;
+  }
+
 }

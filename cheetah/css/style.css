@@ -148,3 +148,32 @@ h1.headtitle{
   transform: translate(-5px, -5px);
   cursor: se-resize;
 }
+
+main{
+  padding: 10px 0 10px;
+  border-bottom: solid 1px #3f3f3f;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.btn-selector{
+    color: #a5a5a5;
+    padding: 0px 5px 0px 40px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: auto;
+    line-height: normal;
+}
+
+.btn-selector.general{
+  background-image: url('../images/general.png');
+}
+
+.btn-selector.world{
+  background-image: url('../images/world.png');
+}
+
+.btn-selector.spawns{
+  background-image: url('../images/spawns.png');
+}
