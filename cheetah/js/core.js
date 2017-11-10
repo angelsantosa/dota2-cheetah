@@ -31,25 +31,36 @@ class CheetahJSONManager{
   constructor(json_file){
     this._json_file = json_file;
     this._object = {};
-
+    this.setObject();
   }
 
   setObject(){
-    $.getJSON(this._json_file, function (d) {
-      this._object = d;
-      console.log(this._object)
-    });
+    var these = this;
+    var file = this._json_file;
+      $.getJSON(file, function (d) {
+        these._object = d;
+      });
   }
 
-  getObject(){
-    return this._object;
+  getObject(pathexp){
+      if(pathexp==undefined){
+        return this._object;
+      }else{
+        return JSPath.apply(pathexp,this._object);
+      }
   }
-  
-  getNestedObject(object_name){
+
+  getNestedObject(pathexp){
     var nst_object = {};
+    var file = this._json_file;
+    var these = this;
     var first,who,key;
-    $.getJSON(this._json_file, function (d) {
-      $.each(d[object_name], function (k,v) {
+    var obj = this.getObject(pathexp);
+
+    if(pathexp == undefined){
+      return this._object;
+    }else {
+      $.each(obj, function (k,v) {
         if(key!=k){
           who=undefined;
           key=undefined;
@@ -68,8 +79,13 @@ class CheetahJSONManager{
         });
 
       });
-    });
     return nst_object;
+    }
+
+  }
+
+  objToJSON(obj){
+    return JSON.stringify(obj);
   }
 
 }

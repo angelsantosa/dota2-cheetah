@@ -31,28 +31,21 @@ var Views = {
     data:{}
   }
 }
-var cats_nested;
+var cats_nested, cats_json;
 var Header = new CheetahTplManager(Views.header);
 var StatusBar = new CheetahTplManager(Views.footer);
 var CatMenu = new CheetahTplManager(Views.main);
-var CatContainer = new CheetahTplManager(Views.cat);
 var CommandList = new CheetahJSONManager(commands_json);
+
 
 $(document).ready(function() {
   //render headerd and status bar
+  //.commands{.name == "gold" }
+  cats_nested = CommandList.getNestedObject(".categories");
+  cats_json = CommandList.objToJSON(cats_nested);
+
   Header.render();
   StatusBar.render();
-  //get cat of commands
-  var cats_nested = CommandList.getNestedObject("categories");
-  setTimeout(function () {
-    var cats_nested = JSON.stringify(cats_nested)
-  }, 10);
-  setTimeout(function () {
-    //render cats with their info, note that could have just been itarated, class getNestedObject() gives me the power
-    //of template one by one, which is gonna be needed  for createing items and units, ill fix it when i get wiht a better idea
-    CatMenu.renderData(cats_nested);
-  }, 20);
-
-
+  CatMenu.renderData(cats_nested);
 
 });
