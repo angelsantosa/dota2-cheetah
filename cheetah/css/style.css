@@ -149,7 +149,7 @@ h1.headtitle{
   cursor: se-resize;
 }
 
-main{
+.main{
   padding: 10px 0 10px;
   border-bottom: solid 1px #3f3f3f;
   display: flex;
@@ -157,7 +157,7 @@ main{
   justify-content: center;
 }
 
-.btn-selector{
+.btn-selector, .btn-selector:focus{
     color: #a5a5a5;
     padding: 0px 5px 0px 40px;
     background-repeat: no-repeat;
@@ -176,4 +176,7 @@ main{
 
 .btn-selector.spawns{
   background-image: url('../images/spawns.png');
+}
+.cateiner{
+
 }
