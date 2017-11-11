@@ -1,0 +1,578 @@
+{
+  "heroes": [{
+      "abb" : ["antimage","mage","magina","am"],
+      "id": 1,
+      "localized_name": "Anti-Mage"
+    },
+    {
+      "abb" : ["khan","mogul"],
+      "id": 2,
+      "localized_name": "Axe"
+    },
+    {
+      "abb" : ["atropos"],
+      "id": 3,
+      "localized_name": "Bane"
+    },
+    {
+      "abb" : ["bullshit","bs","strygwyr","flash"],
+      "id": 4,
+      "localized_name": "Bloodseeker"
+    },
+    {
+      "abb" : ["cm","rylai"],
+      "id": 5,
+      "localized_name": "Crystal Maiden"
+    },
+    {
+      "abb" : ["dr","traxex","traxes"],
+      "id": 6,
+      "localized_name": "Drow Ranger"
+    },
+    {
+      "abb" : ["earth","es","shakira","wakamaka"],
+      "id": 7,
+      "localized_name": "Earthshaker"
+    },
+    {
+      "abb" : ["yurnero"],
+      "id": 8,
+      "localized_name": "Juggernaut"
+    },
+    {
+      "abb" : ["potm","princess","moon","roman"],
+      "id": 9,
+      "localized_name": "Mirana"
+    },
+    {
+      "abb" : ["sf","nevermore","never"],
+      "id": 11,
+      "localized_name": "Shadow Fiend"
+    },
+    {
+      "abb" : ["water"],
+      "id": 10,
+      "localized_name": "Morphling"
+    },
+    {
+      "abb" : ["pl","cancer","azwraith"],
+      "id": 12,
+      "localized_name": "Phantom Lancer"
+    },
+    {
+      "abb" : ["faerie","dragon","kupu","s4"],
+      "id": 13,
+      "localized_name": "Puck"
+    },
+    {
+      "abb" : ["dendiface","butcher","abomination","roadhog","blitzcrank"],
+      "id": 14,
+      "localized_name": "Pudge"
+    },
+    {
+      "abb" : ["lightning","revenant","gillette"],
+      "id": 15,
+      "localized_name": "Razor"
+    },
+    {
+      "abb" : ["crixalis","sk","gaben","gabe","newell","dududu"],
+      "id": 16,
+      "localized_name": "Sand King"
+    },
+    {
+      "abb" : ["ss","sumail","raijin","thunderkeg"],
+      "id": 17,
+      "localized_name": "Storm Spirit"
+    },
+    {
+      "abb" : ["7","seven","rogue","knight","thorsen"],
+      "id": 18,
+      "localized_name": "Sven"
+    },
+    {
+      "abb" : ["tony","rock","stone","giant","hulk"],
+      "id": 19,
+      "localized_name": "Tiny"
+    },
+    {
+      "abb" : ["vs","shendelzare","820","silkwood"],
+      "id": 20,
+      "localized_name": "Vengeful Spirit"
+    },
+    {
+      "abb" : ["wr","w33","lyralei","alleria"],
+      "id": 21,
+      "localized_name": "Windranger"
+    },
+    {
+      "abb" : ["zuus","lord","heaven","lord","olympus","merlini"],
+      "id": 22,
+      "localized_name": "Zeus"
+    },
+    {
+      "abb" : ["admiral","kunkko","attacker","daelin","proudmoore","coco"],
+      "id": 23,
+      "localized_name": "Kunkka"
+    },
+    {
+      "abb" : ["slayer","inverse"],
+      "id": 25,
+      "localized_name": "Lina"
+    },
+    {
+      "abb" : ["ethreain","kel","thuzad"],
+      "id": 31,
+      "localized_name": "Lich"
+    },
+    {
+      "abb" : ["demon"],
+      "id": 26,
+      "localized_name": "Lion"
+    },
+    {
+      "abb" : ["ss","rhasta","rasta"],
+      "id": 27,
+      "localized_name": "Shadow Shaman"
+    },
+    {
+      "abb" : ["slithereen","guard"],
+      "id": 28,
+      "localized_name": "Slardar"
+    },
+    {
+      "abb" : ["leviathan"],
+      "id": 29,
+      "localized_name": "Tidehunter"
+    },
+    {
+      "abb" : ["wd","zharvakko"],
+      "id": 30,
+      "localized_name": "Witch Doctor"
+    },
+    {
+      "abb" : ["stealth","maru","rikimaru","ricky","martin"],
+      "id": 32,
+      "localized_name": "Riki"
+    },
+    {
+      "abb" : ["consumer"],
+      "id": 33,
+      "localized_name": "Enigma"
+    },
+    {
+      "abb" : ["boush","kleiner","isaac"],
+      "id": 34,
+      "localized_name": "Tinker"
+    },
+    {
+      "abb" : ["kardel","sharpeye","hoho","haha"],
+      "id": 35,
+      "localized_name": "Sniper"
+    },
+    {
+      "abb" : ["necrophiliac","necrolyte","rotund","jere"],
+      "id": 36,
+      "localized_name": "Necrophos"
+    },
+    {
+      "abb" : ["demnok","lannik"],
+      "id": 37,
+      "localized_name": "Warlock"
+    },
+    {
+      "abb" : ["karroch","bm","rexxar"],
+      "id": 38,
+      "localized_name": "Beastmaster"
+    },
+    {
+      "abb" : ["qop","akasha"],
+      "id": 39,
+      "localized_name": "Queen of Pain"
+    },
+    {
+      "abb" : ["lesale","deathbringer","hydralisk","banana"],
+      "id": 40,
+      "localized_name": "Venomancer"
+    },
+    {
+      "abb" : ["fv","darkterror","gorzerk"],
+      "id": 41,
+      "localized_name": "Faceless Void"
+    },
+    {
+      "abb" : ["ostarion","true","sk","skeleton","leoric","wk"],
+      "id": 42,
+      "localized_name": "Wraith King"
+    },
+    {
+      "abb" : ["dp","krobelus"],
+      "id": 43,
+      "localized_name": "Death Prophet"
+    },
+    {
+      "abb" : ["pa","mortred","mordred"],
+      "id": 44,
+      "localized_name": "Phantom Assassin"
+    },
+    {
+      "abb" : ["oblivion"],
+      "id": 45,
+      "localized_name": "Pugna"
+    },
+    {
+      "abb" : ["ta","waga","gaby","lanaya"],
+      "id": 46,
+      "localized_name": "Templar Assassin"
+    },
+    {
+      "abb" : ["netherdrake"],
+      "id": 47,
+      "localized_name": "Viper"
+    },
+    {
+      "abb" : ["moon","rider","selemene"],
+      "id": 48,
+      "localized_name": "Luna"
+    },
+    {
+      "abb" : ["dk","davion","trogdor","honist"],
+      "id": 49,
+      "localized_name": "Dragon Knight"
+    },
+    {
+      "abb" : ["priest","razzle"],
+      "id": 50,
+      "localized_name": "Dazzle"
+    },
+    {
+      "abb" : ["cw","rattletrap","bulba","terminator"],
+      "id": 51,
+      "localized_name": "Clockwerk"
+    },
+    {
+      "abb" : ["tormented","soul"],
+      "id": 52,
+      "localized_name": "Leshrac"
+    },
+    {
+      "abb" : ["np","furion","tea","winner","tequoia","bulldong","bulldog"],
+      "id": 53,
+      "localized_name": "Nature's Prophet"
+    },
+    {
+      "abb" : ["ls","naix","gollum"],
+      "id": 54,
+      "localized_name": "Lifestealer"
+    },
+    {
+      "abb" : ["ds","ish","kafel","dork"],
+      "id": 55,
+      "localized_name": "Dark Seer"
+    },
+    {
+      "abb" : ["fletcher","bone","clintz"],
+      "id": 56,
+      "localized_name": "Clinkz"
+    },
+    {
+      "abb" : ["slacks","purist","thunderwrath","chuck","norris"],
+      "id": 57,
+      "localized_name": "Omniknight"
+    },
+    {
+      "abb" : ["aiushtha","chuan","enchuantress","bambi"],
+      "id": 58,
+      "localized_name": "Enchantress"
+    },
+    {
+      "abb" : ["oscar","sacred","warrior"],
+      "id": 59,
+      "localized_name": "Huskar"
+    },
+    {
+      "abb" : ["ns","synderen","balanar"],
+      "id": 60,
+      "localized_name": "Night Stalker"
+    },
+    {
+      "abb" : ["arachnia","mother","spider"],
+      "id": 61,
+      "localized_name": "Broodmother"
+    },
+    {
+      "abb" : ["bh","booty","gondar"],
+      "id": 62,
+      "localized_name": "Bounty Hunter"
+    },
+    {
+      "abb" : ["skitskurr","nerubian"],
+      "id": 63,
+      "localized_name": "Weaver"
+    },
+    {
+      "abb" : ["jakkiro","dragon","twin"],
+      "id": 64,
+      "localized_name": "Jakiro"
+    },
+    {
+      "abb" : ["rider","batman","jin","zakk"],
+      "id": 65,
+      "localized_name": "Batrider"
+    },
+    {
+      "abb" : ["chechen","jackie","puppey"],
+      "id": 66,
+      "localized_name": "Chen"
+    },
+    {
+      "abb" : ["mercurial","qwerty"],
+      "id": 67,
+      "localized_name": "Spectre"
+    },
+    {
+      "abb" : ["lucifer","bringer"],
+      "id": 69,
+      "localized_name": "Doom"
+    },
+    {
+      "abb" : ["aa","kaldr"],
+      "id": 68,
+      "localized_name": "Ancient Apparition"
+    },
+    {
+      "abb" : ["ulfsaar","warrior","bear","fuzzy","wuzzy"],
+      "id": 70,
+      "localized_name": "Ursa"
+    },
+    {
+      "abb" : ["sb","barathrum","cow","space"],
+      "id": 71,
+      "localized_name": "Spirit Breaker"
+    },
+    {
+      "abb" : ["aurel","xboct"],
+      "id": 72,
+      "localized_name": "Gyrocopter"
+    },
+    {
+      "abb" : ["razzil","darkbrew"],
+      "id": 73,
+      "localized_name": "Alchemist"
+    },
+    {
+      "abb" : ["kael","carl","garral"],
+      "id": 74,
+      "localized_name": "Invoker"
+    },
+    {
+      "abb" : ["nortrom"],
+      "id": 75,
+      "localized_name": "Silencer"
+    },
+    {
+      "abb" : ["od","harbinger","obsidian","destroyer","demolisher","developer","outhouse","decorator"],
+      "id": 76,
+      "localized_name": "Outworld Devourer"
+    },
+    {
+      "abb" : ["wolf","banehallow"],
+      "id": 77,
+      "localized_name": "Lycan"
+    },
+    {
+      "abb" : ["panda","mangix","pandaren","bm"],
+      "id": 78,
+      "localized_name": "Brewmaster"
+    },
+    {
+      "abb" : ["sd","eredar","giblet"],
+      "id": 79,
+      "localized_name": "Shadow Demon"
+    },
+    {
+      "abb" : ["ld","bear","sylla"],
+      "id": 80,
+      "localized_name": "Lone Druid"
+    },
+    {
+      "abb" : ["ck","nessaj"],
+      "id": 81,
+      "localized_name": "Chaos Knight"
+    },
+    {
+      "abb" : ["mapo","mepo","santosa","geomancer","w33"],
+      "id": 82,
+      "localized_name": "Meepo"
+    },
+    {
+      "abb" : ["tree","rooftrellen"],
+      "id": 83,
+      "localized_name": "Treant Protector"
+    },
+    {
+      "abb" : ["aggron","stonebreak"],
+      "id": 84,
+      "localized_name": "Ogre Magi"
+    },
+    {
+      "abb" : ["almighty","dirge","dirge"],
+      "id": 85,
+      "localized_name": "Undying"
+    },
+    {
+      "abb" : ["grand","magus","yapzor","erno","aghanim"],
+      "id": 86,
+      "localized_name": "Rubick"
+    },
+    {
+      "abb" : ["crafter","far"],
+      "id": 87,
+      "localized_name": "Disruptor"
+    },
+    {
+      "abb" : ["nerubian","anub"],
+      "id": 88,
+      "localized_name": "Nyx Assassin"
+    },
+    {
+      "abb" : ["slithice"],
+      "id": 89,
+      "localized_name": "Naga Siren"
+    },
+    {
+      "abb" : ["kotl","mana","ezalor","gandalf"],
+      "id": 90,
+      "localized_name": "Keeper of the Light"
+    },
+    {
+      "abb" : ["wisp","ball","santelmo"],
+      "id": 91,
+      "localized_name": "Io"
+    },
+    {
+      "abb" : ["visage"],
+      "id": 92,
+      "localized_name": "Visage"
+    },
+    {
+      "abb" : ["fish","nightcrawler"],
+      "id": 93,
+      "localized_name": "Slark"
+    },
+    {
+      "abb" : ["dusa","gorgon"],
+      "id": 94,
+      "localized_name": "Medusa"
+    },
+    {
+      "abb" : ["Jahrakal"],
+      "id": 95,
+      "localized_name": "Troll Warlord"
+    },
+    {
+      "abb" : ["cw","bradwarden","warchief"],
+      "id": 96,
+      "localized_name": "Centaur Warrunner"
+    },
+    {
+      "abb" : ["arise","magnoceros","magnataur","gustav"],
+      "id": 97,
+      "localized_name": "Magnus"
+    },
+    {
+      "abb" : ["rizzrack","goblin","dhredder"],
+      "id": 98,
+      "localized_name": "Timbersaw"
+    },
+    {
+      "abb" : ["bb","rigwarl","pig"],
+      "id": 99,
+      "localized_name": "Bristleback"
+    },
+    {
+      "abb" : ["tuskarr","ymir"],
+      "id": 100,
+      "localized_name": "Tusk"
+    },
+    {
+      "abb" : ["sm","dragonus"],
+      "id": 101,
+      "localized_name": "Skywrath Mage"
+    },
+    {
+      "abb" : ["lord","avernus"],
+      "id": 102,
+      "localized_name": "Abaddon"
+    },
+    {
+      "abb" : ["et","tauren","chieftain"],
+      "id": 103,
+      "localized_name": "Elder Titan"
+    },
+    {
+      "abb" : ["lc","tresdin"],
+      "id": 104,
+      "localized_name": "Legion Commander"
+    },
+    {
+      "abb" : ["es","imba","xin"],
+      "id": 106,
+      "localized_name": "Ember Spirit"
+    },
+    {
+      "abb" : ["es","kaolin","stone","caller"],
+      "id": 107,
+      "localized_name": "Earth Spirit"
+    },
+    {
+      "abb" : ["tb","marauder"],
+      "id": 109,
+      "localized_name": "Terrorblade"
+    },
+    {
+      "abb" : ["bird","icarus"],
+      "id": 110,
+      "localized_name": "Phoenix"
+    },
+    {
+      "abb" : ["nerif"],
+      "id": 111,
+      "localized_name": "Oracle"
+    },
+    {
+      "abb" : ["squee","spleen","spoon"],
+      "id": 105,
+      "localized_name": "Techies"
+    },
+    {
+      "abb" : ["ww","auroth"],
+      "id": 112,
+      "localized_name": "Winter Wyvern"
+    },
+    {
+      "abb" : ["aw","zet"],
+      "id": 113,
+      "localized_name": "Arc Warden"
+    },
+    {
+      "abb" : ["vrogros","pitlord","azgalor"],
+      "id": 108,
+      "localized_name": "Underlord"
+    },
+    {
+      "abb" : ["mk","sun","wukong"],
+      "id": 114,
+      "localized_name": "Monkey King"
+    },
+    {
+      "abb" : ["donte","panlin"],
+      "id": 120,
+      "localized_name": "Pangolier"
+    },
+    {
+      "abb" : ["mireska","sunbreeze","dw"],
+      "id": 119,
+      "localized_name": "Dark Willow"
+    }
+  ]
+}

@@ -1,0 +1,576 @@
+[{
+	"name": "npc_dota_hero_abaddon",
+	"id": 102,
+	"localized_name": "Abaddon",
+	"abb": ["lord", "avernus"]
+}, {
+	"name": "npc_dota_hero_alchemist",
+	"id": 73,
+	"localized_name": "Alchemist",
+	"abb": ["razzil", "darkbrew"]
+}, {
+	"name": "npc_dota_hero_ancient_apparition",
+	"id": 68,
+	"localized_name": "Ancient Apparition",
+	"abb": ["aa", "kaldr"]
+}, {
+	"name": "npc_dota_hero_antimage",
+	"id": 1,
+	"localized_name": "Anti-Mage",
+	"abb": ["antimage", "mage", "magina", "am"]
+}, {
+	"name": "npc_dota_hero_arc_warden",
+	"id": 113,
+	"localized_name": "Arc Warden",
+	"abb": ["aw", "zet"]
+}, {
+	"name": "npc_dota_hero_axe",
+	"id": 2,
+	"localized_name": "Axe",
+	"abb": ["khan", "mogul"]
+}, {
+	"name": "npc_dota_hero_bane",
+	"id": 3,
+	"localized_name": "Bane",
+	"abb": ["atropos"]
+}, {
+	"name": "npc_dota_hero_batrider",
+	"id": 65,
+	"localized_name": "Batrider",
+	"abb": ["rider", "batman", "jin", "zakk"]
+}, {
+	"name": "npc_dota_hero_beastmaster",
+	"id": 38,
+	"localized_name": "Beastmaster",
+	"abb": ["karroch", "bm", "rexxar"]
+}, {
+	"name": "npc_dota_hero_bloodseeker",
+	"id": 4,
+	"localized_name": "Bloodseeker",
+	"abb": ["bullshit", "bs", "strygwyr", "flash"]
+}, {
+	"name": "npc_dota_hero_bounty_hunter",
+	"id": 62,
+	"localized_name": "Bounty Hunter",
+	"abb": ["bh", "booty", "gondar"]
+}, {
+	"name": "npc_dota_hero_brewmaster",
+	"id": 78,
+	"localized_name": "Brewmaster",
+	"abb": ["panda", "mangix", "pandaren", "bm"]
+}, {
+	"name": "npc_dota_hero_bristleback",
+	"id": 99,
+	"localized_name": "Bristleback",
+	"abb": ["bb", "rigwarl", "pig"]
+}, {
+	"name": "npc_dota_hero_broodmother",
+	"id": 61,
+	"localized_name": "Broodmother",
+	"abb": ["arachnia", "mother", "spider"]
+}, {
+	"name": "npc_dota_hero_centaur",
+	"id": 96,
+	"localized_name": "Centaur Warrunner",
+	"abb": ["cw", "bradwarden", "warchief"]
+}, {
+	"name": "npc_dota_hero_chaos_knight",
+	"id": 81,
+	"localized_name": "Chaos Knight",
+	"abb": ["ck", "nessaj"]
+}, {
+	"name": "npc_dota_hero_chen",
+	"id": 66,
+	"localized_name": "Chen",
+	"abb": ["chechen", "jackie", "puppey"]
+}, {
+	"name": "npc_dota_hero_clinkz",
+	"id": 56,
+	"localized_name": "Clinkz",
+	"abb": ["fletcher", "bone", "clintz"]
+}, {
+	"name": "npc_dota_hero_rattletrap",
+	"id": 51,
+	"localized_name": "Clockwerk",
+	"abb": ["cw", "rattletrap", "bulba", "terminator"]
+}, {
+	"name": "npc_dota_hero_crystal_maiden",
+	"id": 5,
+	"localized_name": "Crystal Maiden",
+	"abb": ["cm", "rylai"]
+}, {
+	"name": "npc_dota_hero_dark_seer",
+	"id": 55,
+	"localized_name": "Dark Seer",
+	"abb": ["ds", "ish", "kafel", "dork"]
+}, {
+	"name": "npc_dota_hero_dark_willow",
+	"id": 119,
+	"localized_name": "Dark Willow",
+	"abb": ["mireska", "sunbreeze", "dw"]
+}, {
+	"name": "npc_dota_hero_dazzle",
+	"id": 50,
+	"localized_name": "Dazzle",
+	"abb": ["priest", "razzle"]
+}, {
+	"name": "npc_dota_hero_death_prophet",
+	"id": 43,
+	"localized_name": "Death Prophet",
+	"abb": ["dp", "krobelus"]
+}, {
+	"name": "npc_dota_hero_disruptor",
+	"id": 87,
+	"localized_name": "Disruptor",
+	"abb": ["crafter", "far"]
+}, {
+	"name": "npc_dota_hero_doom_bringer",
+	"id": 69,
+	"localized_name": "Doom",
+	"abb": ["lucifer", "bringer"]
+}, {
+	"name": "npc_dota_hero_dragon_knight",
+	"id": 49,
+	"localized_name": "Dragon Knight",
+	"abb": ["dk", "davion", "trogdor", "honist"]
+}, {
+	"name": "npc_dota_hero_drow_ranger",
+	"id": 6,
+	"localized_name": "Drow Ranger",
+	"abb": ["dr", "traxex", "traxes"]
+}, {
+	"name": "npc_dota_hero_earth_spirit",
+	"id": 107,
+	"localized_name": "Earth Spirit",
+	"abb": ["es", "kaolin", "stone", "caller"]
+}, {
+	"name": "npc_dota_hero_earthshaker",
+	"id": 7,
+	"localized_name": "Earthshaker",
+	"abb": ["earth", "es", "shakira", "wakamaka"]
+}, {
+	"name": "npc_dota_hero_elder_titan",
+	"id": 103,
+	"localized_name": "Elder Titan",
+	"abb": ["et", "tauren", "chieftain"]
+}, {
+	"name": "npc_dota_hero_ember_spirit",
+	"id": 106,
+	"localized_name": "Ember Spirit",
+	"abb": ["es", "imba", "xin"]
+}, {
+	"name": "npc_dota_hero_enchantress",
+	"id": 58,
+	"localized_name": "Enchantress",
+	"abb": ["aiushtha", "chuan", "enchuantress", "bambi"]
+}, {
+	"name": "npc_dota_hero_enigma",
+	"id": 33,
+	"localized_name": "Enigma",
+	"abb": ["consumer"]
+}, {
+	"name": "npc_dota_hero_faceless_void",
+	"id": 41,
+	"localized_name": "Faceless Void",
+	"abb": ["fv", "darkterror", "gorzerk"]
+}, {
+	"name": "npc_dota_hero_gyrocopter",
+	"id": 72,
+	"localized_name": "Gyrocopter",
+	"abb": ["aurel", "xboct"]
+}, {
+	"name": "npc_dota_hero_huskar",
+	"id": 59,
+	"localized_name": "Huskar",
+	"abb": ["oscar", "sacred", "warrior"]
+}, {
+	"name": "npc_dota_hero_invoker",
+	"id": 74,
+	"localized_name": "Invoker",
+	"abb": ["kael", "carl", "garral"]
+}, {
+	"name": "npc_dota_hero_wisp",
+	"id": 91,
+	"localized_name": "Io",
+	"abb": ["wisp", "ball", "santelmo"]
+}, {
+	"name": "npc_dota_hero_jakiro",
+	"id": 64,
+	"localized_name": "Jakiro",
+	"abb": ["jakkiro", "dragon", "twin"]
+}, {
+	"name": "npc_dota_hero_juggernaut",
+	"id": 8,
+	"localized_name": "Juggernaut",
+	"abb": ["yurnero"]
+}, {
+	"name": "npc_dota_hero_keeper_of_the_light",
+	"id": 90,
+	"localized_name": "Keeper of the Light",
+	"abb": ["kotl", "mana", "ezalor", "gandalf"]
+}, {
+	"name": "npc_dota_hero_kunkka",
+	"id": 23,
+	"localized_name": "Kunkka",
+	"abb": ["admiral", "kunkko", "attacker", "daelin", "proudmoore", "coco"]
+}, {
+	"name": "npc_dota_hero_legion_commander",
+	"id": 104,
+	"localized_name": "Legion Commander",
+	"abb": ["lc", "tresdin"]
+}, {
+	"name": "npc_dota_hero_leshrac",
+	"id": 52,
+	"localized_name": "Leshrac",
+	"abb": ["tormented", "soul"]
+}, {
+	"name": "npc_dota_hero_lich",
+	"id": 31,
+	"localized_name": "Lich",
+	"abb": ["ethreain", "kel", "thuzad"]
+}, {
+	"name": "npc_dota_hero_life_stealer",
+	"id": 54,
+	"localized_name": "Lifestealer",
+	"abb": ["ls", "naix", "gollum"]
+}, {
+	"name": "npc_dota_hero_lina",
+	"id": 25,
+	"localized_name": "Lina",
+	"abb": ["slayer", "inverse"]
+}, {
+	"name": "npc_dota_hero_lion",
+	"id": 26,
+	"localized_name": "Lion",
+	"abb": ["demon"]
+}, {
+	"name": "npc_dota_hero_lone_druid",
+	"id": 80,
+	"localized_name": "Lone Druid",
+	"abb": ["ld", "bear", "sylla"]
+}, {
+	"name": "npc_dota_hero_luna",
+	"id": 48,
+	"localized_name": "Luna",
+	"abb": ["moon", "rider", "selemene"]
+}, {
+	"name": "npc_dota_hero_lycan",
+	"id": 77,
+	"localized_name": "Lycan",
+	"abb": ["wolf", "banehallow"]
+}, {
+	"name": "npc_dota_hero_magnataur",
+	"id": 97,
+	"localized_name": "Magnus",
+	"abb": ["arise", "magnoceros", "magnataur", "gustav"]
+}, {
+	"name": "npc_dota_hero_medusa",
+	"id": 94,
+	"localized_name": "Medusa",
+	"abb": ["dusa", "gorgon"]
+}, {
+	"name": "npc_dota_hero_meepo",
+	"id": 82,
+	"localized_name": "Meepo",
+	"abb": ["mapo", "mepo", "santosa", "geomancer", "w33"]
+}, {
+	"name": "npc_dota_hero_mirana",
+	"id": 9,
+	"localized_name": "Mirana",
+	"abb": ["potm", "princess", "moon", "roman"]
+}, {
+	"name": "npc_dota_hero_monkey_king",
+	"id": 114,
+	"localized_name": "Monkey King",
+	"abb": ["mk", "sun", "wukong"]
+}, {
+	"name": "npc_dota_hero_morphling",
+	"id": 10,
+	"localized_name": "Morphling",
+	"abb": ["water"]
+}, {
+	"name": "npc_dota_hero_naga_siren",
+	"id": 89,
+	"localized_name": "Naga Siren",
+	"abb": ["slithice"]
+}, {
+	"name": "npc_dota_hero_furion",
+	"id": 53,
+	"localized_name": "Nature's Prophet",
+	"abb": ["np", "furion", "tea", "winner", "tequoia", "bulldong", "bulldog"]
+}, {
+	"name": "npc_dota_hero_necrolyte",
+	"id": 36,
+	"localized_name": "Necrophos",
+	"abb": ["necrophiliac", "necrolyte", "rotund", "jere"]
+}, {
+	"name": "npc_dota_hero_night_stalker",
+	"id": 60,
+	"localized_name": "Night Stalker",
+	"abb": ["ns", "synderen", "balanar"]
+}, {
+	"name": "npc_dota_hero_nyx_assassin",
+	"id": 88,
+	"localized_name": "Nyx Assassin",
+	"abb": ["nerubian", "anub"]
+}, {
+	"name": "npc_dota_hero_ogre_magi",
+	"id": 84,
+	"localized_name": "Ogre Magi",
+	"abb": ["aggron", "stonebreak"]
+}, {
+	"name": "npc_dota_hero_omniknight",
+	"id": 57,
+	"localized_name": "Omniknight",
+	"abb": ["slacks", "purist", "thunderwrath", "chuck", "norris"]
+}, {
+	"name": "npc_dota_hero_oracle",
+	"id": 111,
+	"localized_name": "Oracle",
+	"abb": ["nerif"]
+}, {
+	"name": "npc_dota_hero_obsidian_destroyer",
+	"id": 76,
+	"localized_name": "Outworld Devourer",
+	"abb": ["od", "harbinger", "obsidian", "destroyer", "demolisher", "developer", "outhouse", "decorator"]
+}, {
+	"name": "npc_dota_hero_pangolier",
+	"id": 120,
+	"localized_name": "Pangolier",
+	"abb": ["donte", "panlin"]
+}, {
+	"name": "npc_dota_hero_phantom_assassin",
+	"id": 44,
+	"localized_name": "Phantom Assassin",
+	"abb": ["pa", "mortred", "mordred"]
+}, {
+	"name": "npc_dota_hero_phantom_lancer",
+	"id": 12,
+	"localized_name": "Phantom Lancer",
+	"abb": ["pl", "cancer", "azwraith"]
+}, {
+	"name": "npc_dota_hero_phoenix",
+	"id": 110,
+	"localized_name": "Phoenix",
+	"abb": ["bird", "icarus"]
+}, {
+	"name": "npc_dota_hero_puck",
+	"id": 13,
+	"localized_name": "Puck",
+	"abb": ["faerie", "dragon", "kupu", "s4"]
+}, {
+	"name": "npc_dota_hero_pudge",
+	"id": 14,
+	"localized_name": "Pudge",
+	"abb": ["dendiface", "butcher", "abomination", "roadhog", "blitzcrank"]
+}, {
+	"name": "npc_dota_hero_pugna",
+	"id": 45,
+	"localized_name": "Pugna",
+	"abb": ["oblivion"]
+}, {
+	"name": "npc_dota_hero_queenofpain",
+	"id": 39,
+	"localized_name": "Queen of Pain",
+	"abb": ["qop", "akasha"]
+}, {
+	"name": "npc_dota_hero_razor",
+	"id": 15,
+	"localized_name": "Razor",
+	"abb": ["lightning", "revenant", "gillette"]
+}, {
+	"name": "npc_dota_hero_riki",
+	"id": 32,
+	"localized_name": "Riki",
+	"abb": ["stealth", "maru", "rikimaru", "ricky", "martin"]
+}, {
+	"name": "npc_dota_hero_rubick",
+	"id": 86,
+	"localized_name": "Rubick",
+	"abb": ["grand", "magus", "yapzor", "erno", "aghanim"]
+}, {
+	"name": "npc_dota_hero_sand_king",
+	"id": 16,
+	"localized_name": "Sand King",
+	"abb": ["crixalis", "sk", "gaben", "gabe", "newell", "dududu"]
+}, {
+	"name": "npc_dota_hero_shadow_demon",
+	"id": 79,
+	"localized_name": "Shadow Demon",
+	"abb": ["sd", "eredar", "giblet"]
+}, {
+	"name": "npc_dota_hero_nevermore",
+	"id": 11,
+	"localized_name": "Shadow Fiend",
+	"abb": ["sf", "nevermore", "never"]
+}, {
+	"name": "npc_dota_hero_shadow_shaman",
+	"id": 27,
+	"localized_name": "Shadow Shaman",
+	"abb": ["ss", "rhasta", "rasta"]
+}, {
+	"name": "npc_dota_hero_silencer",
+	"id": 75,
+	"localized_name": "Silencer",
+	"abb": ["nortrom"]
+}, {
+	"name": "npc_dota_hero_skywrath_mage",
+	"id": 101,
+	"localized_name": "Skywrath Mage",
+	"abb": ["sm", "dragonus"]
+}, {
+	"name": "npc_dota_hero_slardar",
+	"id": 28,
+	"localized_name": "Slardar",
+	"abb": ["slithereen", "guard"]
+}, {
+	"name": "npc_dota_hero_slark",
+	"id": 93,
+	"localized_name": "Slark",
+	"abb": ["fish", "nightcrawler"]
+}, {
+	"name": "npc_dota_hero_sniper",
+	"id": 35,
+	"localized_name": "Sniper",
+	"abb": ["kardel", "sharpeye", "hoho", "haha"]
+}, {
+	"name": "npc_dota_hero_spectre",
+	"id": 67,
+	"localized_name": "Spectre",
+	"abb": ["mercurial", "qwerty"]
+}, {
+	"name": "npc_dota_hero_spirit_breaker",
+	"id": 71,
+	"localized_name": "Spirit Breaker",
+	"abb": ["sb", "barathrum", "cow", "space"]
+}, {
+	"name": "npc_dota_hero_storm_spirit",
+	"id": 17,
+	"localized_name": "Storm Spirit",
+	"abb": ["ss", "sumail", "raijin", "thunderkeg"]
+}, {
+	"name": "npc_dota_hero_sven",
+	"id": 18,
+	"localized_name": "Sven",
+	"abb": ["7", "seven", "rogue", "knight", "thorsen"]
+}, {
+	"name": "npc_dota_hero_techies",
+	"id": 105,
+	"localized_name": "Techies",
+	"abb": ["squee", "spleen", "spoon"]
+}, {
+	"name": "npc_dota_hero_templar_assassin",
+	"id": 46,
+	"localized_name": "Templar Assassin",
+	"abb": ["ta", "waga", "gaby", "lanaya"]
+}, {
+	"name": "npc_dota_hero_terrorblade",
+	"id": 109,
+	"localized_name": "Terrorblade",
+	"abb": ["tb", "marauder"]
+}, {
+	"name": "npc_dota_hero_tidehunter",
+	"id": 29,
+	"localized_name": "Tidehunter",
+	"abb": ["leviathan"]
+}, {
+	"name": "npc_dota_hero_shredder",
+	"id": 98,
+	"localized_name": "Timbersaw",
+	"abb": ["rizzrack", "goblin", "dhredder"]
+}, {
+	"name": "npc_dota_hero_tinker",
+	"id": 34,
+	"localized_name": "Tinker",
+	"abb": ["boush", "kleiner", "isaac"]
+}, {
+	"name": "npc_dota_hero_tiny",
+	"id": 19,
+	"localized_name": "Tiny",
+	"abb": ["tony", "rock", "stone", "giant", "hulk"]
+}, {
+	"name": "npc_dota_hero_treant",
+	"id": 83,
+	"localized_name": "Treant Protector",
+	"abb": ["tree", "rooftrellen"]
+}, {
+	"name": "npc_dota_hero_troll_warlord",
+	"id": 95,
+	"localized_name": "Troll Warlord",
+	"abb": ["Jahrakal"]
+}, {
+	"name": "npc_dota_hero_tusk",
+	"id": 100,
+	"localized_name": "Tusk",
+	"abb": ["tuskarr", "ymir"]
+}, {
+	"name": "npc_dota_hero_abyssal_underlord",
+	"id": 108,
+	"localized_name": "Underlord",
+	"abb": ["vrogros", "pitlord", "azgalor"]
+}, {
+	"name": "npc_dota_hero_undying",
+	"id": 85,
+	"localized_name": "Undying",
+	"abb": ["almighty", "dirge", "dirge"]
+}, {
+	"name": "npc_dota_hero_ursa",
+	"id": 70,
+	"localized_name": "Ursa",
+	"abb": ["ulfsaar", "warrior", "bear", "fuzzy", "wuzzy"]
+}, {
+	"name": "npc_dota_hero_vengefulspirit",
+	"id": 20,
+	"localized_name": "Vengeful Spirit",
+	"abb": ["vs", "shendelzare", "820", "silkwood"]
+}, {
+	"name": "npc_dota_hero_venomancer",
+	"id": 40,
+	"localized_name": "Venomancer",
+	"abb": ["lesale", "deathbringer", "hydralisk", "banana"]
+}, {
+	"name": "npc_dota_hero_viper",
+	"id": 47,
+	"localized_name": "Viper",
+	"abb": ["netherdrake"]
+}, {
+	"name": "npc_dota_hero_visage",
+	"id": 92,
+	"localized_name": "Visage",
+	"abb": ["visage"]
+}, {
+	"name": "npc_dota_hero_warlock",
+	"id": 37,
+	"localized_name": "Warlock",
+	"abb": ["demnok", "lannik"]
+}, {
+	"name": "npc_dota_hero_weaver",
+	"id": 63,
+	"localized_name": "Weaver",
+	"abb": ["skitskurr", "nerubian"]
+}, {
+	"name": "npc_dota_hero_windrunner",
+	"id": 21,
+	"localized_name": "Windranger",
+	"abb": ["wr", "w33", "lyralei", "alleria"]
+}, {
+	"name": "npc_dota_hero_winter_wyvern",
+	"id": 112,
+	"localized_name": "Winter Wyvern",
+	"abb": ["ww", "auroth"]
+}, {
+	"name": "npc_dota_hero_witch_doctor",
+	"id": 30,
+	"localized_name": "Witch Doctor",
+	"abb": ["wd", "zharvakko"]
+}, {
+	"name": "npc_dota_hero_skeleton_king",
+	"id": 42,
+	"localized_name": "Wraith King",
+	"abb": ["ostarion", "true", "sk", "skeleton", "leoric", "wk"]
+}, {
+	"name": "npc_dota_hero_zuus",
+	"id": 22,
+	"localized_name": "Zeus",
+	"abb": ["zuus", "lord", "heaven", "lord", "olympus", "merlini"]
+}]
