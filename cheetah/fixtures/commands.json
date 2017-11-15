@@ -1,101 +1,94 @@
 {
-  "commands": [{
-      "name": "lvlup",
-      "title": "Level up hero",
-      "desc": "Levels up primary hero to given value",
-      "cat": 1,
-      "chat_command": "-lvlup",
-      "console_command": "dota_hero_level",
-      "args": true,
-      "defaults": {
-        "level": 6
-      }
-    },
-
-    {
-      "name": "gold",
-      "title": "Give gold",
-      "desc": "Gives amount of gold to primary hero",
-      "cat": 1,
-      "chat_command": "-gold",
-      "console_command": "dota_give_gold",
-      "args": true,
-      "default": {
-        "gold": 322
-      }
-    },
-
-    {
-      "name": "refresh",
-      "title": "Refresh spells",
-      "desc": "Refreshes cooldowns, health and mana in ALL units",
-      "cat": 1,
-      "chat_command": "-refresh",
-      "console_command": "dota_hero_refresh",
-      "args": false,
-      "default": {}
-    },
-
-    {
-      "name": "respawn",
-      "title": "Respawn hero",
-      "desc": "Respawns primary hero if dead",
-      "cat": 1,
-      "chat_command": "-respawn",
-      "console_command": "dota_hero_respawn",
-      "args": false,
-      "default": {}
-    },
-
-    {
-      "name": "wtf",
-      "title": "wtf mode ON",
-      "desc": "Activates wtf mode, no cooldowns",
-      "cat": 1,
-      "chat_command": "-wtf",
-      "console_command": "dota_ability_debug_enable",
-      "args": false,
-      "default": {}
-    },
-
-    {
-      "name": "unwtf",
-      "title": "wtf mode ON",
-      "desc": "Deactivates wtf mode",
-      "cat": 1,
-      "chat_command": "-unwtf",
-      "console_command": "dota_ability_debug_disable",
-      "args": false,
-      "default": {}
-    },
-
-    {
-      "name": "create_item",
-      "title": "Give item",
-      "desc": "Gives item to primary hero",
-      "cat": 1,
-      "chat_command": "-item",
-      "console_command": "dota_create_item",
-      "args": true,
-      "default": {
-        "item": "item_enchanted_mango"
-      }
-    }
-
-  ],
-  "categories": [{
-      "title": "general",
-      "id": 1
-    },
-
-    {
-      "title": "world",
-      "id": 2
-    },
-
-    {
-      "title": "spawns",
-      "id": 3
-    }
-  ]
+    "commands": [
+        {
+            "name": "lvlup",
+            "title": "Level up hero",
+            "desc": "Levels up primary hero to given value",
+            "cat": 1,
+            "chat_command": "-lvlup",
+            "console_command": "dota_hero_level",
+            "args": true,
+            "defaults": {
+                "level": 6
+            }
+        },
+        {
+            "name": "gold",
+            "title": "Give gold",
+            "desc": "Gives amount of gold to primary hero",
+            "cat": 1,
+            "chat_command": "-gold",
+            "console_command": "dota_give_gold",
+            "args": true,
+            "default": {
+                "gold": 322
+            }
+        },
+        {
+            "name": "refresh",
+            "title": "Refresh spells",
+            "desc": "Refreshes cooldowns, health and mana in ALL units",
+            "cat": 1,
+            "chat_command": "-refresh",
+            "console_command": "dota_hero_refresh",
+            "args": false,
+            "default": {}
+        },
+        {
+            "name": "respawn",
+            "title": "Respawn hero",
+            "desc": "Respawns primary hero if dead",
+            "cat": 1,
+            "chat_command": "-respawn",
+            "console_command": "dota_hero_respawn",
+            "args": false,
+            "default": {}
+        },
+        {
+            "name": "wtf",
+            "title": "wtf mode ON",
+            "desc": "Activates wtf mode, no cooldowns",
+            "cat": 1,
+            "chat_command": "-wtf",
+            "console_command": "dota_ability_debug_enable",
+            "args": false,
+            "default": {}
+        },
+        {
+            "name": "unwtf",
+            "title": "wtf mode ON",
+            "desc": "Deactivates wtf mode",
+            "cat": 1,
+            "chat_command": "-unwtf",
+            "console_command": "dota_ability_debug_disable",
+            "args": false,
+            "default": {}
+        },
+        {
+            "name": "create_item",
+            "title": "Give item",
+            "desc": "Gives item to primary hero",
+            "cat": 1,
+            "chat_command": "-item",
+            "console_command": "dota_create_item",
+            "args": true,
+            "default": {
+                "item": "item_enchanted_mango"
+            }
+        }
+    ],
+    "categories": [
+        {
+            "title": "general",
+            "id": 1
+        },
+        {
+            "title": "world",
+            "id": 2
+        },
+        {
+            "title": "spawns",
+            "id": 3
+        }
+    ]
 }
