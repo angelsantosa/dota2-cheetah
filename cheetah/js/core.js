@@ -9,7 +9,6 @@ function sortByField(obj, field) {
     var bn = b[field].toLowerCase();
     if (an < bn) {
       return -1;
-      console.log(an + ">" + bn);
     } else {
       return 1;
     }
@@ -40,17 +39,7 @@ class CheetahTplManager {
     this.setData(data);
     this.render();
   }
-  render(checker,fun, ms=20, select2class=".select2-hidden-accessible") {
-
-    function _do(){
-      var clax = checker.concat(select2class);
-      console.log(clax);
-      var c = $(clax).length;
-      console.log(c);
-      if(c){
-        clearInterval(_loop);
-      }else fun()
-    }
+  render() {
 
     var el = this._tpl_el;
     var tag = this._tpl_tagname;
@@ -60,11 +49,50 @@ class CheetahTplManager {
         method: 'html'
       });
     });
-    if(checker!=undefined){
-      var _loop = setInterval(_do,ms);
-    }
 
   }
+}
+
+class CheetahSelect2Manager {
+  constructor(render_el, checker_el, data, placeholder = "Select an option", ms = 20, select2class = ".select2-hidden-accessible") {
+    this._render_el = render_el;
+    this._checker_el = checker_el;
+    this._data = data;
+    this._placeholder = placeholder;
+    this._ms = ms;
+    this._select2class = select2class;
+  }
+  getSelect2Build() {
+
+    var self = this;
+    var data = self._data;
+
+    $(self._render_el).select2({
+      matcher: data.getMatcher,
+      placeholder: self._placeholder,
+      width: "100%",
+      data: data.getObjectSelect2(),
+      dropdownAutoWidth: true,
+      templateResult: data.getTemplateResult
+    });
+
+  }
+
+  build() {
+
+    var self = this;
+    var clax_checker = self._checker_el.concat(self._select2class);
+
+    function _do() {
+      var c = $(clax_checker).length;
+      if (c) {
+        clearInterval(_loop);
+      } else self.getSelect2Build()
+    }
+
+    var _loop = setInterval(_do, self._ms);
+  }
+
 }
 
 class CheetahJSONManager {
@@ -81,6 +109,7 @@ class CheetahJSONManager {
     $.getJSON(file, function(d) {
       these._object = d;
     });
+
   }
 
   getObject(pathexp) {
