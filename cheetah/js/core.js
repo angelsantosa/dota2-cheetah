@@ -2,12 +2,13 @@ function stripDiacritics(text) {
   return text.normalize('NFD').replace(/[\u0300-\u036f]/g, "");
 }
 
-function sortByField(obj, field) {
+function sortByField(obj, field, sort_ord=true) {
   var ob = obj;
   var ob = ob.sort(function(a, b) {
-    var an = a[field].toLowerCase();
-    var bn = b[field].toLowerCase();
-    if (an < bn) {
+    var an = ((typeof a[field] === 'string') ? a[field].toLowerCase() : a[field] )
+    var bn = ((typeof b[field] === 'string') ? b[field].toLowerCase() : b[field] )
+    var cond = ((sort_ord) ? an < bn : an > bn )
+    if (cond) {
       return -1;
     } else {
       return 1;
