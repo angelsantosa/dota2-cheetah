@@ -5,7 +5,7 @@
 				"kelen"
 			],
 			"id": 1,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Blink Dagger"
 		},
 		{
@@ -13,7 +13,7 @@
 				""
 			],
 			"id": 2,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Blades of Attack"
 		},
 		{
@@ -21,7 +21,7 @@
 				""
 			],
 			"id": 3,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Broadsword"
 		},
 		{
@@ -29,7 +29,7 @@
 				""
 			],
 			"id": 4,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Chainmail"
 		},
 		{
@@ -37,7 +37,7 @@
 				""
 			],
 			"id": 5,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Claymore"
 		},
 		{
@@ -45,7 +45,7 @@
 				""
 			],
 			"id": 6,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Helm of Iron Will"
 		},
 		{
@@ -53,7 +53,7 @@
 				""
 			],
 			"id": 7,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Javelin"
 		},
 		{
@@ -61,7 +61,7 @@
 				""
 			],
 			"id": 8,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Mithril Hammer"
 		},
 		{
@@ -69,7 +69,7 @@
 				""
 			],
 			"id": 9,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Platemail"
 		},
 		{
@@ -77,7 +77,7 @@
 				""
 			],
 			"id": 10,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Quarterstaff"
 		},
 		{
@@ -85,7 +85,7 @@
 				""
 			],
 			"id": 11,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Quelling Blade"
 		},
 		{
@@ -93,7 +93,7 @@
 				"ff"
 			],
 			"id": 237,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Faerie Fire"
 		},
 		{
@@ -101,7 +101,7 @@
 				""
 			],
 			"id": 265,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Infused Raindrops"
 		},
 		{
@@ -109,7 +109,7 @@
 				""
 			],
 			"id": 244,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Wind Lace"
 		},
 		{
@@ -117,7 +117,7 @@
 				""
 			],
 			"id": 12,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Ring of Protection"
 		},
 		{
@@ -125,7 +125,7 @@
 				""
 			],
 			"id": 182,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Stout Shield"
 		},
 		{
@@ -133,7 +133,7 @@
 				""
 			],
 			"id": 247,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Moon Shard"
 		},
 		{
@@ -141,7 +141,7 @@
 				""
 			],
 			"id": 13,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Gauntlets of Strength"
 		},
 		{
@@ -149,7 +149,7 @@
 				""
 			],
 			"id": 14,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Slippers of Agility"
 		},
 		{
@@ -157,7 +157,7 @@
 				""
 			],
 			"id": 15,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Mantle of Intelligence"
 		},
 		{
@@ -167,7 +167,7 @@
 				"bob ross"
 			],
 			"id": 16,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Iron Branch"
 		},
 		{
@@ -175,7 +175,7 @@
 				""
 			],
 			"id": 17,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Belt of Strength"
 		},
 		{
@@ -183,7 +183,7 @@
 				""
 			],
 			"id": 18,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Band of Elvenskin"
 		},
 		{
@@ -191,7 +191,7 @@
 				""
 			],
 			"id": 19,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Robe of the Magi"
 		},
 		{
@@ -199,7 +199,7 @@
 				""
 			],
 			"id": 20,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Circlet"
 		},
 		{
@@ -207,7 +207,7 @@
 				"ogre club"
 			],
 			"id": 21,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Ogre Axe"
 		},
 		{
@@ -215,7 +215,7 @@
 				""
 			],
 			"id": 22,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Blade of Alacrity"
 		},
 		{
@@ -223,7 +223,7 @@
 				""
 			],
 			"id": 23,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Staff of Wizardry"
 		},
 		{
@@ -231,7 +231,7 @@
 				""
 			],
 			"id": 24,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Ultimate Orb"
 		},
 		{
@@ -239,7 +239,7 @@
 				""
 			],
 			"id": 25,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Gloves of Haste"
 		},
 		{
@@ -249,7 +249,7 @@
 				"life steal"
 			],
 			"id": 26,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Morbid Mask"
 		},
 		{
@@ -257,7 +257,7 @@
 				""
 			],
 			"id": 27,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Ring of Regen"
 		},
 		{
@@ -265,7 +265,7 @@
 				"sobi mask"
 			],
 			"id": 28,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Sage's Mask"
 		},
 		{
@@ -273,7 +273,7 @@
 				""
 			],
 			"id": 29,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Boots of Speed"
 		},
 		{
@@ -281,7 +281,7 @@
 				""
 			],
 			"id": 30,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Gem of True Sight"
 		},
 		{
@@ -291,7 +291,7 @@
 				"magus cloak"
 			],
 			"id": 31,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Cloak"
 		},
 		{
@@ -299,7 +299,7 @@
 				""
 			],
 			"id": 32,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Talisman of Evasion"
 		},
 		{
@@ -308,7 +308,7 @@
 				"furbolg cheese"
 			],
 			"id": 33,
-			"cat": 0,
+			"cat": 2,
 			"localized_name": "Cheese"
 		},
 		{
@@ -316,7 +316,7 @@
 				""
 			],
 			"id": 34,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Magic Stick"
 		},
 		{
@@ -324,7 +324,7 @@
 				""
 			],
 			"id": 36,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Magic Wand"
 		},
 		{
@@ -332,7 +332,7 @@
 				""
 			],
 			"id": 37,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Ghost Scepter"
 		},
 		{
@@ -340,7 +340,7 @@
 				"mana potion"
 			],
 			"id": 38,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Clarity"
 		},
 		{
@@ -349,7 +349,7 @@
 				"bruno"
 			],
 			"id": 216,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Enchanted Mango"
 		},
 		{
@@ -358,7 +358,7 @@
 				"health"
 			],
 			"id": 39,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Healing Salve"
 		},
 		{
@@ -366,7 +366,7 @@
 				"reveal"
 			],
 			"id": 40,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Dust of Appearance"
 		},
 		{
@@ -374,7 +374,7 @@
 				""
 			],
 			"id": 41,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Bottle"
 		},
 		{
@@ -382,7 +382,7 @@
 				"eyes"
 			],
 			"id": 42,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Observer Ward"
 		},
 		{
@@ -390,7 +390,7 @@
 				"revel"
 			],
 			"id": 43,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Sentry Ward"
 		},
 		{
@@ -398,7 +398,7 @@
 				""
 			],
 			"id": 218,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Observer and Sentry Wards"
 		},
 		{
@@ -407,7 +407,7 @@
 				"tree"
 			],
 			"id": 44,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Tango"
 		},
 		{
@@ -416,7 +416,7 @@
 				"tree"
 			],
 			"id": 241,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Tango (Shared)"
 		},
 		{
@@ -424,7 +424,7 @@
 				"chicken"
 			],
 			"id": 45,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Animal Courier"
 		},
 		{
@@ -433,7 +433,7 @@
 				"teleport"
 			],
 			"id": 46,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Town Portal Scroll"
 		},
 		{
@@ -442,7 +442,7 @@
 				"bots"
 			],
 			"id": 48,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Boots of Travel"
 		},
 		{
@@ -451,7 +451,7 @@
 				"bots"
 			],
 			"id": 220,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Boots of Travel"
 		},
 		{
@@ -459,7 +459,7 @@
 				""
 			],
 			"id": 50,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Phase Boots"
 		},
 		{
@@ -467,7 +467,7 @@
 				""
 			],
 			"id": 51,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Demon Edge"
 		},
 		{
@@ -475,7 +475,7 @@
 				"eaglehorn"
 			],
 			"id": 52,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Eaglesong"
 		},
 		{
@@ -484,7 +484,7 @@
 				"messerschmidts reaver"
 			],
 			"id": 53,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Reaver"
 		},
 		{
@@ -492,7 +492,7 @@
 				""
 			],
 			"id": 54,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Sacred Relic"
 		},
 		{
@@ -500,7 +500,7 @@
 				""
 			],
 			"id": 55,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Hyperstone"
 		},
 		{
@@ -508,7 +508,7 @@
 				""
 			],
 			"id": 56,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Ring of Health"
 		},
 		{
@@ -516,7 +516,7 @@
 				""
 			],
 			"id": 57,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Void Stone"
 		},
 		{
@@ -524,7 +524,7 @@
 				""
 			],
 			"id": 58,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Mystic Staff"
 		},
 		{
@@ -532,7 +532,7 @@
 				""
 			],
 			"id": 59,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Energy Booster"
 		},
 		{
@@ -540,7 +540,7 @@
 				""
 			],
 			"id": 60,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Point Booster"
 		},
 		{
@@ -548,7 +548,7 @@
 				""
 			],
 			"id": 61,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Vitality Booster"
 		},
 		{
@@ -556,7 +556,7 @@
 				""
 			],
 			"id": 63,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Power Treads"
 		},
 		{
@@ -564,7 +564,7 @@
 				""
 			],
 			"id": 65,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Hand of Midas"
 		},
 		{
@@ -572,7 +572,7 @@
 				""
 			],
 			"id": 67,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Oblivion Staff"
 		},
 		{
@@ -580,7 +580,7 @@
 				""
 			],
 			"id": 69,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Perseverance"
 		},
 		{
@@ -588,7 +588,7 @@
 				"pms"
 			],
 			"id": 71,
-			"cat": 0,
+			"cat": 2,
 			"localized_name": "Poor Man's Shield"
 		},
 		{
@@ -596,7 +596,7 @@
 				""
 			],
 			"id": 73,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Bracer"
 		},
 		{
@@ -604,7 +604,7 @@
 				""
 			],
 			"id": 75,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Wraith Band"
 		},
 		{
@@ -612,7 +612,7 @@
 				""
 			],
 			"id": 77,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Null Talisman"
 		},
 		{
@@ -620,7 +620,7 @@
 				""
 			],
 			"id": 79,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Mekansm"
 		},
 		{
@@ -628,7 +628,7 @@
 				"vlads"
 			],
 			"id": 81,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Vladmir's Offering"
 		},
 		{
@@ -636,7 +636,7 @@
 				"nathrezim buckler"
 			],
 			"id": 86,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Buckler"
 		},
 		{
@@ -644,7 +644,7 @@
 				""
 			],
 			"id": 88,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Ring of Basilius"
 		},
 		{
@@ -652,7 +652,7 @@
 				"khadgars pipe"
 			],
 			"id": 90,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Pipe of Insight"
 		},
 		{
@@ -660,7 +660,7 @@
 				""
 			],
 			"id": 92,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Urn of Shadows"
 		},
 		{
@@ -668,7 +668,7 @@
 				"headdress of rejuvenation"
 			],
 			"id": 94,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Headdress"
 		},
 		{
@@ -678,7 +678,7 @@
 				"hex"
 			],
 			"id": 96,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Scythe of Vyse"
 		},
 		{
@@ -686,7 +686,7 @@
 				""
 			],
 			"id": 98,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Orchid Malevolence"
 		},
 		{
@@ -694,7 +694,7 @@
 				""
 			],
 			"id": 250,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Bloodthorn"
 		},
 		{
@@ -702,7 +702,7 @@
 				""
 			],
 			"id": 252,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Echo Sabre"
 		},
 		{
@@ -710,7 +710,7 @@
 				"euls"
 			],
 			"id": 100,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Eul's Scepter of Divinity"
 		},
 		{
@@ -718,7 +718,7 @@
 				""
 			],
 			"id": 232,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Aether Lens"
 		},
 		{
@@ -726,7 +726,7 @@
 				""
 			],
 			"id": 102,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Force Staff"
 		},
 		{
@@ -734,7 +734,7 @@
 				""
 			],
 			"id": 263,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Hurricane Pike"
 		},
 		{
@@ -742,7 +742,7 @@
 				""
 			],
 			"id": 104,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Dagon"
 		},
 		{
@@ -750,7 +750,7 @@
 				""
 			],
 			"id": 201,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Dagon"
 		},
 		{
@@ -758,7 +758,7 @@
 				""
 			],
 			"id": 202,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Dagon"
 		},
 		{
@@ -766,7 +766,7 @@
 				""
 			],
 			"id": 203,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Dagon"
 		},
 		{
@@ -774,7 +774,7 @@
 				""
 			],
 			"id": 204,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Dagon"
 		},
 		{
@@ -782,7 +782,7 @@
 				""
 			],
 			"id": 106,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Necronomicon"
 		},
 		{
@@ -790,7 +790,7 @@
 				""
 			],
 			"id": 193,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Necronomicon"
 		},
 		{
@@ -798,7 +798,7 @@
 				""
 			],
 			"id": 194,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Necronomicon"
 		},
 		{
@@ -806,7 +806,7 @@
 				"aghs"
 			],
 			"id": 108,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Aghanim's Scepter"
 		},
 		{
@@ -814,7 +814,7 @@
 				""
 			],
 			"id": 110,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Refresher Orb"
 		},
 		{
@@ -822,7 +822,7 @@
 				"ac"
 			],
 			"id": 112,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Assault Cuirass"
 		},
 		{
@@ -830,7 +830,7 @@
 				"hot"
 			],
 			"id": 114,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Heart of Tarrasque"
 		},
 		{
@@ -838,7 +838,7 @@
 				"bkb"
 			],
 			"id": 116,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Black King Bar"
 		},
 		{
@@ -846,7 +846,7 @@
 				""
 			],
 			"id": 117,
-			"cat": 0,
+			"cat": 2,
 			"localized_name": "Aegis of the Immortal"
 		},
 		{
@@ -854,7 +854,7 @@
 				""
 			],
 			"id": 119,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Shiva's Guard"
 		},
 		{
@@ -862,7 +862,7 @@
 				""
 			],
 			"id": 121,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Bloodstone"
 		},
 		{
@@ -870,7 +870,7 @@
 				""
 			],
 			"id": 123,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Linken's Sphere"
 		},
 		{
@@ -878,7 +878,7 @@
 				""
 			],
 			"id": 226,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Lotus Orb"
 		},
 		{
@@ -886,7 +886,7 @@
 				""
 			],
 			"id": 223,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Meteor Hammer"
 		},
 		{
@@ -894,7 +894,7 @@
 				""
 			],
 			"id": 225,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Nullifier"
 		},
 		{
@@ -902,7 +902,7 @@
 				""
 			],
 			"id": 256,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Aeon Disk"
 		},
 		{
@@ -910,7 +910,7 @@
 				""
 			],
 			"id": 259,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Kaya"
 		},
 		{
@@ -918,7 +918,7 @@
 				""
 			],
 			"id": 260,
-			"cat": 0,
+			"cat": 2,
 			"localized_name": "Refresher Shard"
 		},
 		{
@@ -926,7 +926,7 @@
 				""
 			],
 			"id": 267,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Spirit Vessel"
 		},
 		{
@@ -934,7 +934,7 @@
 				""
 			],
 			"id": 125,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Vanguard"
 		},
 		{
@@ -942,7 +942,7 @@
 				""
 			],
 			"id": 242,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Crimson Guard"
 		},
 		{
@@ -950,7 +950,7 @@
 				"bm"
 			],
 			"id": 127,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Blade Mail"
 		},
 		{
@@ -958,7 +958,7 @@
 				""
 			],
 			"id": 129,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Soul Booster"
 		},
 		{
@@ -966,7 +966,7 @@
 				""
 			],
 			"id": 131,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Hood of Defiance"
 		},
 		{
@@ -974,7 +974,7 @@
 				"322"
 			],
 			"id": 133,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Divine Rapier"
 		},
 		{
@@ -982,7 +982,7 @@
 				"mkb"
 			],
 			"id": 135,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Monkey King Bar"
 		},
 		{
@@ -990,7 +990,7 @@
 				""
 			],
 			"id": 137,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Radiance"
 		},
 		{
@@ -998,7 +998,7 @@
 				""
 			],
 			"id": 139,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Butterfly"
 		},
 		{
@@ -1006,7 +1006,7 @@
 				""
 			],
 			"id": 141,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Daedalus"
 		},
 		{
@@ -1014,7 +1014,7 @@
 				"stun"
 			],
 			"id": 143,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Skull Basher"
 		},
 		{
@@ -1022,7 +1022,7 @@
 				""
 			],
 			"id": 145,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Battle Fury"
 		},
 		{
@@ -1030,7 +1030,7 @@
 				""
 			],
 			"id": 147,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Manta Style"
 		},
 		{
@@ -1038,7 +1038,7 @@
 				""
 			],
 			"id": 149,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Crystalys"
 		},
 		{
@@ -1046,7 +1046,7 @@
 				""
 			],
 			"id": 236,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Dragon Lance"
 		},
 		{
@@ -1054,7 +1054,7 @@
 				""
 			],
 			"id": 151,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Armlet of Mordiggian"
 		},
 		{
@@ -1062,7 +1062,7 @@
 				"lothar"
 			],
 			"id": 152,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Shadow Blade"
 		},
 		{
@@ -1070,7 +1070,7 @@
 				""
 			],
 			"id": 249,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Silver Edge"
 		},
 		{
@@ -1078,7 +1078,7 @@
 				""
 			],
 			"id": 154,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Sange and Yasha"
 		},
 		{
@@ -1086,7 +1086,7 @@
 				""
 			],
 			"id": 156,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Satanic"
 		},
 		{
@@ -1094,7 +1094,7 @@
 				""
 			],
 			"id": 158,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Mjollnir"
 		},
 		{
@@ -1102,7 +1102,7 @@
 				""
 			],
 			"id": 160,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Eye of Skadi"
 		},
 		{
@@ -1110,7 +1110,7 @@
 				""
 			],
 			"id": 162,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Sange"
 		},
 		{
@@ -1118,7 +1118,7 @@
 				""
 			],
 			"id": 164,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Helm of the Dominator"
 		},
 		{
@@ -1126,7 +1126,7 @@
 				""
 			],
 			"id": 166,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Maelstrom"
 		},
 		{
@@ -1134,7 +1134,7 @@
 				""
 			],
 			"id": 168,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Desolator"
 		},
 		{
@@ -1142,7 +1142,7 @@
 				""
 			],
 			"id": 170,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Yasha"
 		},
 		{
@@ -1150,7 +1150,7 @@
 				"mom"
 			],
 			"id": 172,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Mask of Madness"
 		},
 		{
@@ -1158,7 +1158,7 @@
 				""
 			],
 			"id": 174,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Diffusal Blade"
 		},
 		{
@@ -1166,7 +1166,7 @@
 				""
 			],
 			"id": 176,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Ethereal Blade"
 		},
 		{
@@ -1174,7 +1174,7 @@
 				""
 			],
 			"id": 178,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Soul Ring"
 		},
 		{
@@ -1182,7 +1182,7 @@
 				"mana boots"
 			],
 			"id": 180,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Arcane Boots"
 		},
 		{
@@ -1190,7 +1190,7 @@
 				""
 			],
 			"id": 235,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Octarine Core"
 		},
 		{
@@ -1198,7 +1198,7 @@
 				"oov"
 			],
 			"id": 181,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Orb of Venom"
 		},
 		{
@@ -1206,7 +1206,7 @@
 				""
 			],
 			"id": 240,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Blight Stone"
 		},
 		{
@@ -1214,7 +1214,7 @@
 				""
 			],
 			"id": 185,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Drum of Endurance"
 		},
 		{
@@ -1222,7 +1222,7 @@
 				""
 			],
 			"id": 187,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Medallion of Courage"
 		},
 		{
@@ -1230,7 +1230,7 @@
 				""
 			],
 			"id": 229,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Solar Crest"
 		},
 		{
@@ -1238,7 +1238,7 @@
 				""
 			],
 			"id": 188,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Smoke of Deceit"
 		},
 		{
@@ -1246,7 +1246,7 @@
 				"xp"
 			],
 			"id": 257,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Tome of Knowledge"
 		},
 		{
@@ -1254,7 +1254,7 @@
 				""
 			],
 			"id": 190,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Veil of Discord"
 		},
 		{
@@ -1262,7 +1262,7 @@
 				""
 			],
 			"id": 231,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Guardian Greaves"
 		},
 		{
@@ -1270,7 +1270,7 @@
 				""
 			],
 			"id": 206,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Rod of Atos"
 		},
 		{
@@ -1278,7 +1278,7 @@
 				""
 			],
 			"id": 239,
-			"cat": 0,
+			"cat": 2,
 			"localized_name": "Iron Talon"
 		},
 		{
@@ -1286,7 +1286,7 @@
 				""
 			],
 			"id": 208,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Abyssal Blade"
 		},
 		{
@@ -1294,7 +1294,7 @@
 				""
 			],
 			"id": 210,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Heaven's Halberd"
 		},
 		{
@@ -1302,7 +1302,7 @@
 				""
 			],
 			"id": 212,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Ring of Aquila"
 		},
 		{
@@ -1310,7 +1310,7 @@
 				"green boots"
 			],
 			"id": 214,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Tranquil Boots"
 		},
 		{
@@ -1318,7 +1318,7 @@
 				""
 			],
 			"id": 215,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Shadow Amulet"
 		},
 		{
@@ -1326,7 +1326,7 @@
 				""
 			],
 			"id": 254,
-			"cat": 0,
+			"cat": 1,
 			"localized_name": "Glimmer Cape"
 		},
 		{
@@ -1334,7 +1334,7 @@
 				""
 			],
 			"id": 1021,
-			"cat": 0,
+			"cat": 2,
 			"localized_name": "River Vial: Chrome"
 		},
 		{
@@ -1342,7 +1342,7 @@
 				""
 			],
 			"id": 1022,
-			"cat": 0,
+			"cat": 2,
 			"localized_name": "River Vial: Dry"
 		},
 		{
@@ -1350,7 +1350,7 @@
 				""
 			],
 			"id": 1023,
-			"cat": 0,
+			"cat": 2,
 			"localized_name": "River Vial: Slime"
 		},
 		{
@@ -1358,7 +1358,7 @@
 				""
 			],
 			"id": 1024,
-			"cat": 0,
+			"cat": 2,
 			"localized_name": "River Vial: Oil"
 		},
 		{
@@ -1366,7 +1366,7 @@
 				""
 			],
 			"id": 1025,
-			"cat": 0,
+			"cat": 2,
 			"localized_name": "River Vial: Electrified"
 		},
 		{
@@ -1374,7 +1374,7 @@
 				""
 			],
 			"id": 1026,
-			"cat": 0,
+			"cat": 2,
 			"localized_name": "River Vial: Potion"
 		},
 		{
@@ -1382,7 +1382,7 @@
 				""
 			],
 			"id": 1027,
-			"cat": 0,
+			"cat": 2,
 			"localized_name": "River Vial: Blood"
 		}
 	]
