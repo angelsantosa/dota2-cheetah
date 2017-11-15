@@ -1,4 +1,3 @@
-var dom_checker = false;
 var commands_json = "/cheetah/fixtures/commands.json";
 var heroes_json = "/cheetah/fixtures/heroes_merge.json";
 var Views = {
@@ -45,6 +44,7 @@ var HeroData = new CheetahJSONManager(heroes_json);
 
 
 $(document).ready(function() {
+
   cats_nested = CommandData.getNestedObject(".categories");
   cats_json = objToJSON(cats_nested);
   Header.render();
@@ -55,12 +55,10 @@ $(document).ready(function() {
 
 $(document).on("click", "#cat", function() {
 
-  var heroes_clear = HeroData.getObject();
-  var heroes_data = new CheetahDota2DataManger(heroes_clear, "heroes");
-
   var catname = $(this).attr('cat');
   var catid = $(this).attr('catid');
-  var lecommands = CommandData.getNestedObject('.commands{.cat == ' + catid + '}');
+  var commands_in_cat = CommandData.getNestedObject('.commands{.cat == ' + catid + '}');
+
   Views.cat = {
     tagname: "cateiner",
     el: $("#cateiner"),
@@ -70,21 +68,28 @@ $(document).on("click", "#cat", function() {
         id: catid,
         name: catname
       },
-      commands: lecommands
+      commands: commands_in_cat
     }
   }
   var CatContainer = new CheetahTplManager(Views.cat);
-  var is_redered = ".heroes";
-  CatContainer.render(is_redered,function () {
-    $("#heroes").select2({
-      matcher: heroes_data.getMatcher,
-      placeholder: "Select an option",
-      width: "100%",
-      data: heroes_data.getObjectSelect2(),
-      dropdownAutoWidth: true,
-      templateResult: heroes_data.getTemplateResult
-    });
-  });
 
+  var heroes_clear = HeroData.getObject();
+  var heroes_data = new CheetahDota2DataManger(heroes_clear, "heroes");
+
+  CatContainer.render();
+  //rendering select on cat
+  switch (catid) {
+    case cats_nested.general.id:
+
+      break;
+
+    case cats_nested.world.id:
+
+      break;
+
+    case cats_nested.spawns.id:
+      var heroes_select = new CheetahSelect2Manager("#heroes", ".heroes", heroes_data, "Select a hero");
+      heroes_select.build();
+  }
 
 });
