@@ -1,0 +1,739 @@
+[
+  {
+    "id": 1,
+    "name": "npc_dota_creep_badguys_melee",
+    "localized_name": "Dire melee creep",
+    "wiki_image": "Melee_Creep_Dire_icon",
+    "cat": 1,
+    "abb": [""]
+  },
+  {
+    "id": 2,
+    "name": "npc_dota_creep_badguys_melee_upgraded",
+    "localized_name": "Dire super melee creep",
+    "wiki_image": "Melee_Creep_Dire_icon",
+    "cat": 1,
+    "abb": [""]
+  },
+  {
+    "id": 3,
+    "name": "npc_dota_creep_badguys_melee_upgraded_mega",
+    "localized_name": "Dire mega melee creep",
+    "wiki_image": "Melee_Creep_Dire_icon",
+    "cat": 1,
+    "abb": [""]
+  },
+  {
+    "id": 4,
+    "name": "npc_dota_creep_badguys_ranged",
+    "localized_name": "Dire ranged creep",
+    "wiki_image": "Melee_Creep_Dire_icon",
+    "cat": 1,
+    "abb": [""]
+  },
+  {
+    "id": 5,
+    "name": "npc_dota_creep_badguys_ranged_upgraded",
+    "localized_name": "Dire super ranged creep",
+    "wiki_image": "Melee_Creep_Dire_icon",
+    "cat": 1,
+    "abb": [""]
+  },
+  {
+    "id": 6,
+    "name": "npc_dota_creep_badguys_ranged_upgraded_mega",
+    "localized_name": "Dire mega ranged creep",
+    "wiki_image": "Melee_Creep_Dire_icon",
+    "cat": 1,
+    "abb": [""]
+  },
+  {
+    "id": 7,
+    "name": "npc_dota_badguys_siege",
+    "localized_name": "Dire siege creep",
+    "wiki_image": "Melee_Creep_Dire_icon",
+    "cat": 1,
+    "abb": [""]
+  },
+  {
+    "id": 8,
+    "name": "npc_dota_badguys_siege_upgraded",
+    "localized_name": "Dire super siege creep",
+    "wiki_image": "Melee_Creep_Dire_icon",
+    "cat": 1,
+    "abb": [""]
+  },
+  {
+    "id": 9,
+    "name": "npc_dota_badguys_siege_upgraded_mega",
+    "localized_name": "Dire mega siege creep",
+    "wiki_image": "Melee_Creep_Dire_icon",
+    "cat": 1,
+    "abb": [""]
+  },
+  {
+    "id": 10,
+    "name": "npc_dota_creep_goodguys_melee",
+    "localized_name": "Radiant melee creep",
+    "wiki_image": "Melee_Creep_Radiant_icon",
+    "cat": 1,
+    "abb": [""]
+  },
+  {
+    "id": 11,
+    "name": "npc_dota_creep_goodguys_melee_upgraded",
+    "localized_name": "Radiant super melee creep",
+    "wiki_image": "Melee_Creep_Radiant_icon",
+    "cat": 1,
+    "abb": [""]
+  },
+  {
+    "id": 12,
+    "name": "npc_dota_creep_goodguys_melee_upgraded_mega",
+    "localized_name": "Radiant mega melee creep",
+    "wiki_image": "Melee_Creep_Radiant_icon",
+    "cat": 1,
+    "abb": [""]
+  },
+  {
+    "id": 13,
+    "name": "npc_dota_creep_goodguys_ranged",
+    "localized_name": "Radiant ranged creep",
+    "wiki_image": "Melee_Creep_Radiant_icon",
+    "cat": 1,
+    "abb": [""]
+  },
+  {
+    "id": 14,
+    "name": "npc_dota_creep_goodguys_ranged_upgraded",
+    "localized_name": "Radiant super ranged creep",
+    "wiki_image": "Melee_Creep_Radiant_icon",
+    "cat": 1,
+    "abb": [""]
+  },
+  {
+    "id": 15,
+    "name": "npc_dota_creep_goodguys_ranged_upgraded_mega",
+    "localized_name": "Radiant mega ranged creep",
+    "wiki_image": "Melee_Creep_Radiant_icon",
+    "cat": 1,
+    "abb": [""]
+  },
+  {
+    "id": 16,
+    "name": "npc_dota_goodguys_siege",
+    "localized_name": "Radiant siege creep",
+    "wiki_image": "Melee_Creep_Radiant_icon",
+    "cat": 1,
+    "abb": [""]
+  },
+  {
+    "id": 17,
+    "name": "npc_dota_goodguys_siege_upgraded",
+    "localized_name": "Radiant super siege creep",
+    "wiki_image": "Melee_Creep_Radiant_icon",
+    "cat": 1,
+    "abb": [""]
+  },
+  {
+    "id": 18,
+    "name": "npc_dota_goodguys_siege_upgraded_mega",
+    "localized_name": "Radiant mega siege creep",
+    "wiki_image": "Melee_Creep_Radiant_icon",
+    "cat": 1,
+    "abb": [""]
+  },
+  {
+    "id": 19,
+    "name": "npc_dota_neutral_alpha_wolf",
+    "localized_name": "Alpha Wolf",
+    "wiki_image": "Alpha_Wolf_icon",
+    "cat": 2,
+    "abb": [""]
+  },
+  {
+    "id": 20,
+    "name": "npc_dota_neutral_centaur_khan",
+    "localized_name": "Centaur Conqueror",
+    "wiki_image": "Centaur_Conqueror_icon",
+    "cat": 2,
+    "abb": [""]
+  },
+  {
+    "id": 21,
+    "name": "npc_dota_neutral_centaur_outrunner",
+    "localized_name": "Centaur Courser",
+    "wiki_image": "Centaur_Courser_icon",
+    "cat": 2,
+    "abb": [""]
+  },
+  {
+    "id": 22,
+    "name": "npc_dota_neutral_dark_troll_warlord",
+    "localized_name": "Dark Troll Summoner",
+    "wiki_image": "Dark_Troll_Summoner_icon",
+    "cat": 2,
+    "abb": [""]
+  },
+  {
+    "id": 23,
+    "name": "npc_dota_neutral_fel_beast",
+    "localized_name": "Fell Spirit",
+    "wiki_image": "Fell_Spirit_icon",
+    "cat": 2,
+    "abb": [""]
+  },
+  {
+    "id": 24,
+    "name": "npc_dota_neutral_ghost",
+    "localized_name": "Ghost",
+    "wiki_image": "Ghost_icon",
+    "cat": 2,
+    "abb": [""]
+  },
+  {
+    "id": 25,
+    "name": "npc_dota_neutral_giant_wolf",
+    "localized_name": "Giant Wolf",
+    "wiki_image": "Giant_Wolf_icon",
+    "cat": 2,
+    "abb": [""]
+  },
+  {
+    "id": 26,
+    "name": "npc_dota_neutral_harpy_scout",
+    "localized_name": "Harpy Scout",
+    "wiki_image": "Harpy_Scout_icon",
+    "cat": 2,
+    "abb": [""]
+  },
+  {
+    "id": 27,
+    "name": "npc_dota_neutral_harpy_storm",
+    "localized_name": "Harpy Stormcrafter",
+    "wiki_image": "Harpy_Stormcrafter_icon",
+    "cat": 2,
+    "abb": [""]
+  },
+  {
+    "id": 28,
+    "name": "npc_dota_neutral_polar_furbolg_champion",
+    "localized_name": "Hellbear",
+    "wiki_image": "Hellbear_icon",
+    "cat": 2,
+    "abb": [""]
+  },
+  {
+    "id": 29,
+    "name": "npc_dota_neutral_polar_furbolg_ursa_warrior",
+    "localized_name": "Hellbear Smasher",
+    "wiki_image": "Hellbear_Smasher_icon",
+    "cat": 2,
+    "abb": [""]
+  },
+  {
+    "id": 30,
+    "name": "npc_dota_neutral_dark_troll",
+    "localized_name": "Hill Troll",
+    "wiki_image": "Hill_Troll_icon",
+    "cat": 2,
+    "abb": [""]
+  },
+  {
+    "id": 31,
+    "name": "npc_dota_neutral_forest_troll_berserker",
+    "localized_name": "Hill Troll Berserker",
+    "wiki_image": "Hill_Troll_Berserker_icon",
+    "cat": 2,
+    "abb": [""]
+  },
+  {
+    "id": 32,
+    "name": "npc_dota_neutral_forest_troll_high_priest",
+    "localized_name": "Hill Troll Priest",
+    "wiki_image": "Hill_Troll_Priest_icon",
+    "cat": 2,
+    "abb": [""]
+  },
+  {
+    "id": 33,
+    "name": "npc_dota_neutral_kobold",
+    "localized_name": "Kobold",
+    "wiki_image": "Kobold_icon",
+    "cat": 2,
+    "abb": [""]
+  },
+  {
+    "id": 34,
+    "name": "npc_dota_neutral_kobold_tunneler",
+    "localized_name": "Kobold Soldier",
+    "wiki_image": "",
+    "cat": 2,
+    "abb": [""]
+  },
+  {
+    "id": 35,
+    "name": "npc_dota_neutral_kobold_taskmaster",
+    "localized_name": "Kobold Foreman",
+    "wiki_image": "Kobold_Foreman_icon",
+    "cat": 2,
+    "abb": [""]
+  },
+  {
+    "id": 36,
+    "name": "npc_dota_neutral_mud_golem",
+    "localized_name": "Mud Golem",
+    "wiki_image": "Mud_Golem_icon",
+    "cat": 2,
+    "abb": [""]
+  },
+  {
+    "id": 37,
+    "name": "npc_dota_neutral_ogre_mauler",
+    "localized_name": "Ogre Bruiser",
+    "wiki_image": "Ogre_Bruiser_icon",
+    "cat": 2,
+    "abb": [""]
+  },
+  {
+    "id": 38,
+    "name": "npc_dota_neutral_ogre_magi",
+    "localized_name": "Ogre Frostmage",
+    "wiki_image": "Ogre_Frostmage_icon",
+    "cat": 2,
+    "abb": [""]
+  },
+  {
+    "id": 39,
+    "name": "npc_dota_neutral_satyr_trickster",
+    "localized_name": "Satyr Banisher",
+    "wiki_image": "Satyr_Banisher_icon",
+    "cat": 2,
+    "abb": [""]
+  },
+  {
+    "id": 40,
+    "name": "npc_dota_neutral_satyr_soulstealer",
+    "localized_name": "Satyr Mindstealer",
+    "wiki_image": "Satyr_Mindstealer_icon",
+    "cat": 2,
+    "abb": [""]
+  },
+  {
+    "id": 41,
+    "name": "npc_dota_neutral_satyr_hellcaller",
+    "localized_name": "Satyr Tormenter",
+    "wiki_image": "Satyr_Tormenter_icon",
+    "cat": 2,
+    "abb": [""]
+  },
+  {
+    "id": 43,
+    "name": "npc_dota_neutral_gnoll_assassin",
+    "localized_name": "Vhoul Assassin",
+    "wiki_image": "Vhoul_Assassin_icon",
+    "cat": 2,
+    "abb": [""]
+  },
+  {
+    "id": 44,
+    "name": "npc_dota_neutral_wildkin",
+    "localized_name": "Wildwing",
+    "wiki_image": "Wildwing_icon",
+    "cat": 2,
+    "abb": [""]
+  },
+  {
+    "id": 45,
+    "name": "npc_dota_neutral_enraged_wildkin",
+    "localized_name": "Wildwing Ripper",
+    "wiki_image": "Wildwing_Ripper_icon",
+    "cat": 2,
+    "abb": [""]
+  },
+  {
+    "id": 46,
+    "name": "npc_dota_neutral_black_drake",
+    "localized_name": "Ancient Black Drake",
+    "wiki_image": "Ancient_Black_Drake_icon",
+    "cat": 3,
+    "abb": [""]
+  },
+  {
+    "id": 47,
+    "name": "npc_dota_neutral_black_dragon",
+    "localized_name": "Ancient Black Dragon",
+    "wiki_image": "Ancient_Black_Dragon_icon",
+    "cat": 3,
+    "abb": [""]
+  },
+  {
+    "id": 48,
+    "name": "npc_dota_neutral_granite_golem",
+    "localized_name": "Ancient Granite Golem",
+    "wiki_image": "Ancient_Granite_Golem_icon",
+    "cat": 3,
+    "abb": [""]
+  },
+  {
+    "id": 49,
+    "name": "npc_dota_neutral_prowler_acolyte",
+    "localized_name": "Ancient Prowler Acolyte",
+    "wiki_image": "Ancient_Prowler_Acolyte_icon",
+    "cat": 3,
+    "abb": [""]
+  },
+  {
+    "id": 50,
+    "name": "npc_dota_neutral_prowler_shaman",
+    "localized_name": "Ancient Prowler Shaman",
+    "wiki_image": "Ancient_Prowler_Shaman_icon",
+    "cat": 3,
+    "abb": [""]
+  },
+  {
+    "id": 51,
+    "name": "npc_dota_neutral_rock_golem",
+    "localized_name": "Ancient Rock Golem",
+    "wiki_image": "Ancient_Rock_Golem_icon",
+    "cat": 3,
+    "abb": [""]
+  },
+  {
+    "id": 52,
+    "name": "npc_dota_neutral_small_thunder_lizard",
+    "localized_name": "Ancient Rumblehide",
+    "wiki_image": "Ancient_Rumblehide_icon",
+    "cat": 3,
+    "abb": [""]
+  },
+  {
+    "id": 53,
+    "name": "npc_dota_neutral_big_thunder_lizard",
+    "localized_name": "Ancient Thunderhide",
+    "wiki_image": "Ancient_Thunderhide_icon",
+    "cat": 3,
+    "abb": [""]
+  },
+  {
+    "id": 54,
+    "name": "npc_dota_roshan",
+    "localized_name": "Roshan",
+    "wiki_image": "Roshan_icon",
+    "cat": 3,
+    "abb": [""]
+  },
+  {
+    "id": 55,
+    "name": "npc_dota_courier",
+    "localized_name": "Animal Courier",
+    "wiki_image": "",
+    "cat": 4,
+    "abb": ["roman"]
+  },
+  {
+    "id": 56,
+    "name": "npc_dota_beastmaster_boar_1",
+    "localized_name": "Boar (lvl 1)",
+    "wiki_image": "Beastmaster_Boar_icon",
+    "cat": 4,
+    "abb": [""]
+  },
+  {
+    "id": 57,
+    "name": "npc_dota_beastmaster_boar_2",
+    "localized_name": "Boar (lvl 2)",
+    "wiki_image": "Beastmaster_Boar_icon",
+    "cat": 4,
+    "abb": [""]
+  },
+  {
+    "id": 58,
+    "name": "npc_dota_beastmaster_boar_3",
+    "localized_name": "Boar (lvl 3)",
+    "wiki_image": "Beastmaster_Boar_icon",
+    "cat": 4,
+    "abb": [""]
+  },
+  {
+    "id": 59,
+    "name": "npc_dota_beastmaster_boar_4",
+    "localized_name": "Boar (lvl 4)",
+    "wiki_image": "Beastmaster_Boar_icon",
+    "cat": 4,
+    "abb": [""]
+  },
+  {
+    "id": 60,
+    "name": "npc_dota_neutral_mud_golem_split_doom",
+    "localized_name": "Doom Shard",
+    "wiki_image": "Mud_Golem_icon",
+    "cat": 4,
+    "abb": [""]
+  },
+  {
+    "id": 61,
+    "name": "npc_dota_lesser_eidolon",
+    "localized_name": "Eidolon (lvl1)",
+    "wiki_image": "Enigma_Eidolon_icon",
+    "cat": 4,
+    "abb": [""]
+  },
+  {
+    "id": 62,
+    "name": "npc_dota_eidolon",
+    "localized_name": "Eidolon (lvl2)",
+    "wiki_image": "Enigma_Eidolon_icon",
+    "cat": 4,
+    "abb": [""]
+  },
+  {
+    "id": 63,
+    "name": "npc_dota_greater_eidolon",
+    "localized_name": "Eidolon (lvl3)",
+    "wiki_image": "Enigma_Eidolon_icon",
+    "cat": 4,
+    "abb": [""]
+  },
+  {
+    "id": 64,
+    "name": "npc_dota_dire_eidolon",
+    "localized_name": "Eidolon (lvl4)",
+    "wiki_image": "Enigma_Eidolon_icon",
+    "cat": 4,
+    "abb": [""]
+  },
+  {
+    "id": 65,
+    "name": "npc_dota_flying_courier",
+    "localized_name": "Flying Courier",
+    "wiki_image": "",
+    "cat": 4,
+    "abb": ["roman volador"]
+  },
+  {
+    "id": 66,
+    "name": "npc_dota_invoker_forged_spirit",
+    "localized_name": "Forged Spirit",
+    "wiki_image": "Invoker_Forged_Spirit_icon",
+    "cat": 4,
+    "abb": [""]
+  },
+  {
+    "id": 67,
+    "name": "npc_dota_furion_treant_large",
+    "localized_name": "Greater Treant",
+    "wiki_image": "Natures_Prophet_Treant_icon",
+    "cat": 4,
+    "abb": [""]
+  },
+  {
+    "id": 68,
+    "name": "npc_dota_beastmaster_hawk_1",
+    "localized_name": "Hawk (lvl1)",
+    "wiki_image": "",
+    "cat": 4,
+    "abb": [""]
+  },
+  {
+    "id": 69,
+    "name": "npc_dota_beastmaster_hawk_2",
+    "localized_name": "Hawk (lvl2)",
+    "wiki_image": "",
+    "cat": 4,
+    "abb": [""]
+  },
+  {
+    "id": 70,
+    "name": "npc_dota_beastmaster_hawk_3",
+    "localized_name": "Hawk (lvl3)",
+    "wiki_image": "",
+    "cat": 4,
+    "abb": [""]
+  },
+  {
+    "id": 71,
+    "name": "npc_dota_beastmaster_hawk_4",
+    "localized_name": "Hawk (lvl4)",
+    "wiki_image": "",
+    "cat": 4,
+    "abb": [""]
+  },
+  {
+    "id": 72,
+    "name": "npc_dota_lycan_wolf1",
+    "localized_name": "Lycan Wolf (lvl1)",
+    "wiki_image": "Lycan_Wolf_icon",
+    "cat": 4,
+    "abb": [""]
+  },
+  {
+    "id": 73,
+    "name": "npc_dota_lycan_wolf2",
+    "localized_name": "Lycan Wolf (lvl2)",
+    "wiki_image": "Lycan_Wolf_icon",
+    "cat": 4,
+    "abb": [""]
+  },
+  {
+    "id": 74,
+    "name": "npc_dota_lycan_wolf3",
+    "localized_name": "Lycan Wolf (lvl3)",
+    "wiki_image": "Lycan_Wolf_icon",
+    "cat": 4,
+    "abb": [""]
+  },
+  {
+    "id": 75,
+    "name": "npc_dota_lycan_wolf4",
+    "localized_name": "Lycan Wolf (lvl4)",
+    "wiki_image": "Lycan_Wolf_icon",
+    "cat": 4,
+    "abb": [""]
+  },
+  {
+    "id": 76,
+    "name": "npc_dota_necronomicon_archer_1",
+    "localized_name": "Necronomicon Archer (lvl1)",
+    "wiki_image": "Necronomicon_Archer_icon",
+    "cat": 4,
+    "abb": [""]
+  },
+  {
+    "id": 77,
+    "name": "npc_dota_necronomicon_archer_2",
+    "localized_name": "Necronomicon Archer (lvl2)",
+    "wiki_image": "Necronomicon_Archer_icon",
+    "cat": 4,
+    "abb": [""]
+  },
+  {
+    "id": 78,
+    "name": "npc_dota_necronomicon_archer_3",
+    "localized_name": "Necronomicon Archer (lvl3)",
+    "wiki_image": "Necronomicon_Archer_icon",
+    "cat": 4,
+    "abb": [""]
+  },
+  {
+    "id": 79,
+    "name": "npc_dota_necronomicon_warrior_1",
+    "localized_name": "Necronomicon Warrior (lvl1)",
+    "wiki_image": "Necronomicon_Warrior_icon",
+    "cat": 4,
+    "abb": [""]
+  },
+  {
+    "id": 80,
+    "name": "npc_dota_necronomicon_warrior_2",
+    "localized_name": "Necronomicon Warrior (lvl2)",
+    "wiki_image": "Necronomicon_Warrior_icon",
+    "cat": 4,
+    "abb": [""]
+  },
+  {
+    "id": 81,
+    "name": "npc_dota_necronomicon_warrior_3",
+    "localized_name": "Necronomicon Warrior (lvl3)",
+    "wiki_image": "Necronomicon_Warrior_icon",
+    "cat": 4,
+    "abb": [""]
+  },
+  {
+    "id": 82,
+    "name": "npc_dota_neutral_mud_golem_split",
+    "localized_name": "Shard Golem",
+    "wiki_image": "Mud_Golem_icon",
+    "cat": 4,
+    "abb": [""]
+  },
+  {
+    "id": 83,
+    "name": "npc_dota_dark_troll_warlord_skeleton_warrior",
+    "localized_name": "Skeleton Warrior",
+    "wiki_image": "Dark_Troll_Summoner_Skeleton_Warrior_icon",
+    "cat": 4,
+    "abb": [""]
+  },
+  {
+    "id": 84,
+    "name": "npc_dota_broodmother_spiderling",
+    "localized_name": "Spiderling",
+    "wiki_image": "Broodmother_Spiderling_icon",
+    "cat": 4,
+    "abb": [""]
+  },
+  {
+    "id": 85,
+    "name": "npc_dota_broodmother_spiderite",
+    "localized_name": "Spiderite",
+    "wiki_image": "Broodmother_Spiderling_icon",
+    "cat": 4,
+    "abb": [""]
+  },
+  {
+    "id": 86,
+    "name": "npc_dota_furion_treant",
+    "localized_name": "Treant",
+    "wiki_image": "Natures_Prophet_Treant_icon",
+    "cat": 4,
+    "abb": [""]
+  },
+  {
+    "id": 87,
+    "name": "npc_dota_unit_undying_zombie",
+    "localized_name": "Zombie (walking)",
+    "wiki_image": "Undying_Zombie_icon",
+    "cat": 4,
+    "abb": [""]
+  },
+  {
+    "id": 88,
+    "name": "npc_dota_unit_undying_zombie_torso",
+    "localized_name": "Zombie (crawling)",
+    "wiki_image": "Undying_Zombie_icon",
+    "cat": 4,
+    "abb": [""]
+  },
+  {
+    "id": 1,
+    "name": "",
+    "localized_name": "",
+    "wiki_image": "",
+    "cat": 4,
+    "abb": [""]
+  },
+  {
+    "id": 1,
+    "name": "",
+    "localized_name": "",
+    "wiki_image": "",
+    "cat": 4,
+    "abb": [""]
+  },
+  {
+    "id": 1,
+    "name": "",
+    "localized_name": "",
+    "wiki_image": "",
+    "cat": 4,
+    "abb": [""]
+  },
+  {
+    "id": 1,
+    "name": "",
+    "localized_name": "",
+    "wiki_image": "",
+    "cat": 4,
+    "abb": [""]
+  },
+  {
+    "id": 1,
+    "name": "",
+    "localized_name": "",
+    "wiki_image": "",
+    "cat": 1,
+    "abb": [""]
+  }
+
+]
